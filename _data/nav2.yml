@@ -1,22 +1,22 @@
 docs_list_title: Guild Resources
 docs:
   - title: "Guild Lottery"
-    url: /saints2/wiki/Guild-News.html
+    url: /saints3/wiki/Guild-News.html
 
   - title: "Contribution Calculator"
     url: https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing   
 
   - title: "Crown Exchange"
-    url: /saints2/wiki/Crown-Exchange.html
+    url: /saints3/wiki/Crown-Exchange.html
 
   - title: "Game, Gear, and Addon Assistance"
-    url: /saints2/wiki/Game,-Gear,-and-Addon-Assistance.html
+    url: /saints3/wiki/Game,-Gear,-and-Addon-Assistance.html
 
   - title: "Guild Home"
-    url: /saints2/wiki/Guild-Home.html
+    url: /saints3/wiki/Guild-Home.html
 
   - title: "..."
-    url: "/saints2/wiki"
+    url: "/saints3/wiki"
 
 
 # Note that url paths are defined relative to this yml file path.
