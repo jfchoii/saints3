@@ -3,7 +3,7 @@
 
 
 # Welcome to the saints wiki! 
-400
+413
 
 This is currently being edited by @pangiokuhlii based on [the original Saints info center](https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit), being migrated here. 
 
@@ -26,6 +26,7 @@ Progression is a step by step process where you become more informed, more skill
 With you in mind, we have created a [Step by Step Guide](/wiki/Step-by-Step-Guide.md) and in-game [Guild Basics](/wiki/Guild-Basics.md) Guide for you to follow to help your progression to be fun and challenging.
 
 ---
+
 # Links
 
 ### Information
