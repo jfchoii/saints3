@@ -6,10 +6,10 @@ Menu (<a href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}
 </ul>
 
       <!--Add sidebar here... right now this isn't working...-->
-      <h3>{{ site.includes.nav2.docs_list_title }}</h3>
+      <h3>{{ site.data.nav2.docs_list_title }}</h3>
       <nav>
         <ul>
-          {% for item in site.includes.nav2.docs %}
+          {% for item in site.data.nav2.docs %}
             <li>
               <a href="{{ item.url }}">{{ item.title }}</a>
             </li>
@@ -17,10 +17,10 @@ Menu (<a href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}
         </ul>
       </nav>
 
-      <h3>{{ site.includes.navigation.docs_list_title }}</h3>
+      <h3>{{ site.data.navigation.docs_list_title }}</h3>
       <nav>
         <ul>
-          {% for item in site.includes.navigation.docs %}
+          {% for item in site.data.navigation.docs %}
             <li>
               <a href="{{ item.url }}">{{ item.title }}</a>
             </li>
