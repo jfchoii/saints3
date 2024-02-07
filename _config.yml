@@ -110,19 +110,18 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-mentions
   - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-remote-theme
-  - jekyll-relative-links
-  - jekyll-seo-tag
+  - jekyll-relative-links 
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
   - jekyll-gitlab-metadata
 
-
+#- jekyll-seo-tag
+#  - jekyll-mentions
 #
 # INCLUDING HOOKS
 # They are optional, change them only if you need
