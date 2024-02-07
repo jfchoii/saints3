@@ -3,7 +3,7 @@
 
 
 # Welcome to the saints wiki! 
-
+400
 
 This is currently being edited by @pangiokuhlii based on [the original Saints info center](https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit), being migrated here. 
 
@@ -31,7 +31,7 @@ With you in mind, we have created a [Step by Step Guide](/wiki/Step-by-Step-Guid
 ### Information
 
 - [Guild Handbook](/wiki/Guild-Handbook.md)
-- [Guild Basics (In-Game)](/wiki/Guild-Basics)
+- [Guild Basics (In-Game)](/wiki/Guild-Basics.md)
 - [Ranks and Roles](/wiki/Ranks-and-Roles.md)
 - [Sales Handbook](/wiki/Sales-Handbook.md)
 
