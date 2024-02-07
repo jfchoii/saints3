@@ -4,3 +4,26 @@ Menu (<a href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}
   <li><a href="{{ '/' | relative_url }}">Home</a></li>
   <li><a href="{{ '/example-page' | relative_url }}">Example page</a></li>
 </ul>
+
+      <!--Add sidebar here-->
+      <h3>{{ site.includes.nav2.docs_list_title }}</h3>
+      <nav>
+        <ul>
+          {% for item in site.includes.nav2.docs %}
+            <li>
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+
+      <h3>{{ site.includes.navigation.docs_list_title }}</h3>
+      <nav>
+        <ul>
+          {% for item in site.includes.navigation.docs %}
+            <li>
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>

@@ -1,0 +1,28 @@
+docs_list_title: Navigation
+docs:
+  - title: "Home"
+    url: /saints2/index.html
+
+  - title: "Guild Basics (In-Game)"
+    url: /saints2/wiki/Guild-Basics.html
+
+  - title: "Guild News"
+    url: /saints2/wiki/Guild-News.html
+
+  - title: "Guild Handbook"
+    url: /saints2/wiki/Guild-Handbook.html
+
+  - title: "Sales Handbook"
+    url: /saints2/wiki/Sales-Handbook.html
+
+  - title: "Guild Rules"
+    url: /saints2/wiki/Guild-Rules.html 
+
+  - title: "Absences"
+    url: /saints2/wiki/Absences.html 
+
+  - title: "Ranks and Roles"
+    url: /saints2/wiki/Ranks-and-Roles.html
+
+  - title: "..."
+    url: https://jekyllrb.com/tutorials/navigation/#scenario-2-sorted-list
