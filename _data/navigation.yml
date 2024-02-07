@@ -4,25 +4,25 @@ docs:
     url: /saints3/index.html
 
   - title: "Guild Basics (In-Game)"
-    url: /saints3/wiki/Guild-Basics.md
+    url: /saints3/Guild-Basics
 
   - title: "Guild News"
-    url: /saints3/wiki/Guild-News.md
+    url: /saints3/Guild-News
 
   - title: "Guild Handbook"
-    url: /saints3/wiki/Guild-Handbook.md
+    url: /saints3/Guild-Handbook
 
   - title: "Sales Handbook"
-    url: /saints3/wiki/Sales-Handbook.md
+    url: /saints3/Sales-Handbook
 
   - title: "Guild Rules"
-    url: /saints3/wiki/Guild-Rules.md 
+    url: /saints3/Guild-Rules 
 
   - title: "Absences"
-    url: /saints3/wiki/Absences.md 
+    url: /saints3/Absences 
 
   - title: "Ranks and Roles"
-    url: /saints3/wiki/Ranks-and-Roles.md
+    url: /saints3/Ranks-and-Roles
 
   - title: "..."
-    url: wiki/Ranks-and-Roles.md
+    url: Ranks-and-Roles
