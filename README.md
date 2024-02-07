@@ -17,3 +17,30 @@ The git-wiki project is composed by 3 different repository:
 - [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
 
 Version: 1.0.8
+
+
+
+# Welcome to the saints wiki! 
+
+
+This is currently being edited by @pangiokuhlii based on [the original Saints info center](https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit), being migrated here. 
+
+---
+
+# [Guild News](wiki/Guild-News.md)
+
+---
+
+## To New Members
+
+A warm welcome to you, friend! We are very happy you have joined us and we look forward to enjoying the game and guilds with you.
+
+You may be curious about a lot of things and we have a step by step guide to help you transition into your new community.
+
+We highly recommend that you learn about your new guild. We do things differently than most guilds and hope you will soon experience the benefits.
+
+Progression is a step by step process where you become more informed, more skilled and ultimately a thriving member of the community and earning gold.
+
+With you in mind, we have created a [Step by Step Guide](/wiki/Step-by-Step-Guide.md) and in-game [Guild Basics](/wiki/Guild-Basics.md) Guide for you to follow to help your progression to be fun and challenging.
+
+---
