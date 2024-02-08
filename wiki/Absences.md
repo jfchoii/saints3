@@ -9,9 +9,6 @@ https://docs.google.com/document/d/1xi6dSl0g3fEhIgxGEC1hwZ3U0P7VRY2l-6jZoVeZzR4/
 Absences of more than one week should be reported to an officer of the guild.  Extended absences are not allowed for members in orientation or on the removal list.  We ask that you make a donation appropriate to cover your period of absence.
 
 ## Inactivity Policy
-
-Inactivity is defined as not playing the game or **setting your status to offline** for the length of the inactivity period.  We have no way of knowing if your status is set to offline as the game only reports you as being inactive.
-
 After you have exceeded the inactivity period, you will be removed from the guild. 
 
 Prior notice will not be given.  You may however receive an invite from a sister guild.

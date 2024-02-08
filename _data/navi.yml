@@ -1,0 +1,51 @@
+toc:
+  - title: Introduction
+    subfolderitems:
+      - page: New Members
+        url: /saints3/index.html
+      - page: Step by Step Guide
+        url: /saints3/Step-by-Step-Guide
+      - page: "Guild Basics (In-Game)"
+        url: /saints3/Guild-Basics
+      - page: "Guild Rules"
+        url: /saints3/Guild-Rules 
+      -page: "Guild Handbook"
+       url: /saints3/Guild-Handbook
+  - title: Guilds
+    subfolderitems:
+      - page: "Guild News"
+        url: /saints3/Guild-News
+      - page: "Guild Basics (In-Game)"
+        url: /saints3/Guild-Basics
+      - page: "Guild Rules"
+        url: /saints3/Guild-Rules 
+      - page: "Guild Handbook"
+        url: /saints3/Guild-Handbook
+      - page: "Absences"
+        url: /saints3/Absences 
+      - page: "Ranks and Roles"
+        url: /saints3/Ranks-and-Roles
+  - title: Selling
+    subfolderitems:
+      - page: "Sales Handbook"
+        url: /saints3/Sales-Handbook
+      - page: "Contribution Calculator"
+        url: https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing   
+      - page: "Game, Gear, and Addon Assistance"
+        url: /saints3/Game,-Gear,-and-Addon-Assistance
+      - page: "Master Merchant Setup"
+        url: /saints3/Master-Merchant-Setup
+  - title: Benefits
+    subfolderitems:
+      - page: "Guild Home"
+        url: /saints3/Guild-Home
+      - page: "Guild Lottery"
+        url: /saints3/Guild-News
+        - page: "Guild Credits"
+        url: /saints3/Guild-Credits
+      - page: "Crown Exchange"
+        url: /saints3/Crown-Exchange
+      - page: Rite of Passage
+        url: /saints3/Rite-of-Passage
+      - page: "Awards and Prizes"
+        url: /saints3/Awards

@@ -15,8 +15,14 @@ docs:
   - title: "Guild Home"
     url: /saints3/Guild-Home
 
-  - title: "..."
-    url: "/saints3/wiki"
+  - title: "Awards and Prizes"
+    url: ""
+
+  - title: "Guild Credits"
+    url: ""
+
+  - title: "Awards and Prizes"
+    url: ""
 
 
 # Note that url paths are defined relative to this yml file path.

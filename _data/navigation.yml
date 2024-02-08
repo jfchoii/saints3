@@ -3,20 +3,23 @@ docs:
   - title: "Home"
     url: /saints3/index.html
 
-  - title: "Guild Basics (In-Game)"
-    url: /saints3/Guild-Basics
-
   - title: "Guild News"
     url: /saints3/Guild-News
 
+  - title: "Guild Basics (In-Game)"
+    url: /saints3/Guild-Basics
+
+  - title: "Guild Rules"
+    url: /saints3/Guild-Rules 
+
+ 
   - title: "Guild Handbook"
     url: /saints3/Guild-Handbook
 
   - title: "Sales Handbook"
     url: /saints3/Sales-Handbook
 
-  - title: "Guild Rules"
-    url: /saints3/Guild-Rules 
+
 
   - title: "Absences"
     url: /saints3/Absences 

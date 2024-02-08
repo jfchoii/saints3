@@ -6,9 +6,36 @@
   <li><a href="{{ '/example-page' | relative_url }}">Example page</a></li>
 </ul>-->
 
-Add logo here that links to home
+Add logo here that links to home<br><br><br>
 
-      <!--Add sidebar here... right now this isn't working...-->
+<!--Follow <a href ="https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit">info center format for navigation</a>
+https://jekyllrb.com/tutorials/navigation/#scenario-3-two-level-navigation-list
+-->
+
+<div>
+  {% if site.data.navi.toc2[0] %}
+    {% for item in site.data.navi.toc2 %}
+      <h3>{{ item.title }}</h3>
+        {% if item.subfolderitems[0] %}
+          <ul>
+            {% for entry in item.subfolderitems %}
+                <li><a href="{{ entry.url }}">{{ entry.page }}</a>
+                  {% if entry.subsubfolderitems[0] %}
+                    <ul>
+                    {% for subentry in entry.subsubfolderitems %}
+                        <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
+                    {% endfor %}
+                    </ul>
+                  {% endif %}
+                </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+  {% endif %}
+  </div>
+
+<!---
       <h5>{{ site.data.nav2.docs_list_title }}</h5>
       <nav>
         <ul>
@@ -30,3 +57,4 @@ Add logo here that links to home
           {% endfor %}
         </ul>
       </nav>
+--->
