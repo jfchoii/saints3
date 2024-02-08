@@ -118,10 +118,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
-  
+  - jekyll-seo-tag
 
 #- jekyll-seo-tag
-#  - jekyll-mentions
+#- jekyll-mentions
 #- jekyll-gitlab-metadata
 
 # INCLUDING HOOKS
