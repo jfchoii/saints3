@@ -63,8 +63,14 @@ Please join us if you can.  There are many resources in Discord that will come i
 
 #### Editor's notes -- members can stop reading here
 
+For Editors: You can edit the markdown files directly in the github.com interface without having to install anything. I will post a guide explaining how to make a branch and merge branches for those unfamiliar with Github.
 
-Access site at https://jfchoii.github.io/saints2 ; Access this wiki at https://github.com/jfchoii/saints2/wiki
+Right now, editing of the main file tree and creating new pages are discouraged as I have to figure out the linking and provide a github guide. \ 
+For now, navigate to [https://github.com/jfchoii/saints3/tree/master/wiki](https://github.com/jfchoii/saints3/tree/master/wiki) and open the file of interest. You can edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
+
+---
+
+Access site at https://jfchoii.github.io/saints3 ; Access the editable wiki pages at [https://github.com/jfchoii/saints3/blob/master/wiki/](https://github.com/jfchoii/saints3/blob/master/wiki/)
 
 This may be the home for static information related to the guild. Information that is constantly updated may be links to sheets/docs.
 
