@@ -12,6 +12,29 @@ Add logo here that links to home<br><br><br>
 https://jekyllrb.com/tutorials/navigation/#scenario-3-two-level-navigation-list
 -->
 
+<h5>{{ site.data.nav2.docs_list_title }}</h5>
+<nav>
+  <ul>
+    {% for item in site.data.nav2.docs %}
+      <li>
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<h5>{{ site.data.navigation.docs_list_title }}</h5>
+<nav>
+  <ul>
+    {% for item in site.data.navigation.docs %}
+      <li>
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<!-- Haven't gotten this to work
 <div>
   {% if site.data.navi.toc[0] %}
     {% for item in site.data.navi.toc %}
@@ -20,18 +43,18 @@ https://jekyllrb.com/tutorials/navigation/#scenario-3-two-level-navigation-list
           <ul>
             {% for entry in item.subfolderitems %}
                 <li><a href="{{ entry.url }}">{{ entry.page }}</a>
-                  <!--{% if entry.subsubfolderitems[0] %}
+                  {% if entry.subsubfolderitems[0] %}
                     <ul>
                     {% for subentry in entry.subsubfolderitems %}
                         <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
                     {% endfor %}
                     </ul>
-                  {% endif %} -->
+                  {% endif %} 
                 </li>
             {% endfor %}
           </ul>
         {% endif %}
       {% endfor %}
   {% endif %}
-  </div>
+  </div> -->
 
