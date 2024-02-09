@@ -147,7 +147,7 @@ Knight: 75-100% of Fair Share.
 
 As new members come into the guild, the Pages are removed first by the lowest Fair Share percent less than 25%.  Pages that have reached 25% or greater are promoted to a Squire.  Squires that have reached 50% or greater are promoted and Crusaders that have reached 75% are promoted.  Please note that you can be demoted if you fall below these percentages.  However, once you have reached the status of Knight, your income history is weighted into the percent and you will have more leeway before being demoted. 
 
-Higher ranks for established members are achievable for those that choose to excel to the rank of Paladin or the ultimate status of Lord. <!---Also listed in Ranks and Roles>
+Higher ranks for established members are achievable for those that choose to excel to the rank of Paladin or the ultimate status of Lord. <!---Also listed in Ranks and Roles-->
 
 
 #### Expectations
