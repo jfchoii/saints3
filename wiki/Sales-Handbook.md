@@ -76,8 +76,7 @@ The guild has an event called Farming Olympics, which is a great event to test y
 
 ## Crafting
 There are two ways to sell using your maximized crafting skills.  
-1. Crafting things like furnishings, glyphs, food, drink and potions and gear to sell.  
-
+1. Crafting things like furnishings, glyphs, food, drink and potions and gear to sell.
 There is not much profit to be made in furnishings unless it is very rare or a brand new item in demand for a short time.  \
 Other things like glyphs, food, drink, potions and gear can make small profits and may be the best way to start in crafting if you do not have multiple crafting characters. Always study the history of what sells and for how much before you choose to craft.
 
@@ -103,16 +102,16 @@ Not all people can afford to dedicate one hour every day and that is fine but th
 Speed is another convenience in crafting to minimize your time to craft and collect materials from the surveys.  Using the [Ring of the Wild Hunt](https://arzyelbuilds.com/ring-of-the-wild-hunt-guide-ring-of-the-wild-hunt-leads-location/) is invaluable in this.
 
 
-Champion point allocation is also very important to help increase your odds in refining and collecting.  Alcast has an excellent site for teaching you how to do daily writs https://alcasthq.com/eso-crafting-writs-guide/ and also has advice on assigning 
+Champion point allocation is also very important to help increase your odds in refining and collecting.  Alcast has an excellent site for teaching you how to do daily writs (<https://alcasthq.com/eso-crafting-writs-guide/>) and also has advice on assigning 
 champion points.
 
 **Crafting Certification:**
 Once you reach lvl 6 see Millenith, Danel Telleno, and Felarian to start the quests to begin your certification Millenith can certify you in Blacksmithing, Clothier and Woodworking and can be found in the Fighters Guild in your starting city based on your alliance. Danel can cerfify you in Enchanting, Alchemy and Provisioning and is located in your starter city at the Mages Guild. Felarian can cerfify you in Jewelry at level 7 and is located outside the crafting district in the city of Alinor, in Summerset. 
 
 Alliance Starting Cities:
-	   1. for Aldmeri Dominion Pact - Auridon (Vulkhel Guard)
-       2. for Daggerfall Pact- Davon's Watch
-  	   1. for Ebonheart Pact- Deshaan   
+1. for Aldmeri Dominion Pact - Auridon (Vulkhel Guard)
+1. for Daggerfall Pact- Davon's Watch
+1. for Ebonheart Pact- Deshaan   
 
 ## Gear Delving
 Sellable gear can be obtained by defeating world bosses, delves, dolmens and public dungeons.  However, the trick is to find the set and pieces that are most valuable.  If you have not reached level CP160 yet, this is not the best way to try to make gold.  There is very little demand for gear less than this level.
