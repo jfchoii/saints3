@@ -1,5 +1,8 @@
 docs_list_title: Guild Resources
 docs:
+  - title: "Discord"
+    url: https://discord.gg/8KybyjS
+
   - title: "Guild Lottery"
     url: /saints3/Guild-News
 
@@ -21,8 +24,6 @@ docs:
   - title: "Guild Credits"
     url: "/saints3"
 
-  - title: "Awards and Prizes"
-    url: "/saints3"
 
 
 # Note that url paths are defined relative to this yml file path.

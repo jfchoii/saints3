@@ -23,7 +23,7 @@ Also see [[Absences]] and [[Sales Handbook]]
 ## DA RULES 
 ### 1. Have Fun
   Real life has enough challenges. We play the game to have fun and we should never lose sight of that. 
-  
+
 ### 2. Respect The Rules
    - The rules apply to everyone and they are enforced.
    - We wish we did not need rules and hope that someday we can throw them away, but until that day: Learn them, respect them and enforce them. 
@@ -58,10 +58,11 @@ Also see [[Absences]] and [[Sales Handbook]]
     Discord Voice is not required, but certain guild events will require you to be in Discord and capable of hearing and understanding English. No one can explain all mechanics of a dungeon or trial by typing in chat and still play their role. You are not required to talk, but you must be able to listen to the event leader to participate.
   
 ### 5. Sell in the Guild Store
-   - **No items are advertised for sale within guild communication channels such as guild chat and discord.** You are in a trading guild. We know that the guild store takes a small cut over direct sales to other players, but the guild provides sales volume that you cannot acquire by any other means in the game.  We cannot control or monitor your decisions to sell all of your items in the guild store, however, we do prohibit direct selling in guild chat and discord.
-   - We ask for your generosity in supporting your guild, and that includes selling in the guild’s store.  The guild tax is 7%, which is is fixed by the game.  We do **NOT** get the 7%, the game only gives the guild 3.5% of sales and that is NOT enough to pay for the guild trader each week.
+   - **No items are advertised for sale within guild communication channels such as guild chat and discord.** 
+     - You are in a trading guild. We know that the guild store takes a small cut over direct sales to other players, but the guild provides sales volume that you cannot acquire by any other means in the game.  We cannot control or monitor your decisions to sell all of your items in the guild store, however, we do prohibit direct selling in guild chat and discord.
+   - We ask for your generosity in supporting your guild, and that includes selling in the guild’s store.  The guild tax is 7%, which is is fixed by the game.  We do **NOT** get the 7%. The game only gives the guild 3.5% of sales, which is NOT enough to pay for the guild trader each week.
    - We depend on your generosity to make donations to sustain us.  It is not a requirement and is entirely voluntary. We just hope you remember that the guilds do need your support. 
-   - 
+  
 ### 6. Remember Your Value  
    - As your character advances in rank, you are learning valuable tips and tricks that other new  members could benefit from. Your knowledge has great value to others and to the guild. Share your knowledge, become a leader, and remember that simple things are often difficult to a beginner. Just as someone has probably helped you in the game at some point, we believe in paying it  forward.  Be a hero and help another member.
    - If you are a new player and want to level up, please don’t expect someone to do the work for you and try to just go along for the ride.  Do NOT ask anyone to do this.  You may ask for assistance, but openly tell your level before asking.  
@@ -69,8 +70,8 @@ Also see [[Absences]] and [[Sales Handbook]]
 ### 7. DON’T Get Kicked  
    - See [Absences](Absences.md)
    - The members and the guild want you to stay, so please comply with the rules or you will be removed. If you have a significant “real life” situation that prevents you from temporarily playing or participating, contact us to report your absence. However, the best way to  secure your position or rank in the guild is to make contributions that will keep you in good  standing during your absence. Your contact options always include contacting officers by in-game mail or on Discord. If you know that you will be inactive for more than two weeks we advise you to let an officer know of your situation and voluntarily remove yourself from the guild if you do not make an appropriate donation for your absence.  All members in good standing will be re-invited back upon return to the game and your history will be saved.
-   - A member can be kicked in the following ways, but please do not put yourself or us in the  position of having to kick anyone. 
-     - Inactivity and/or inability to contact you or lack of response from you. Inactivity is defined as not playing the game or setting your status to offline for two weeks, unless prior arrangements are made.
+   - A member can be kicked in the following ways, but please do not put yourself or us in the position of having to kick anyone. 
+     - Inactivity and/or inability to contact you or lack of response from you. Inactivity is defined as not playing the game or setting your status to offline for **two weeks**, unless prior arrangements are made.
      - Not complying with the rules or the Zenimax Code of Conduct. 
      - Trading Guilds also require an income level above the bottom 5% of all members. 
      - Causing too much drama, agitation, negativity or irritation to other members. 

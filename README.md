@@ -3,9 +3,10 @@
 
 
 # Welcome to the saints wiki! 
-1044
 
-This is currently being edited by @pangiokuhlii based on [the original Saints info center](https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit), being migrated here. 
+This is currently being edited by @pangiokuhlii based on [the original Saints info center][keyinfo]
+
+[keyinfo]: https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit
 
 ---
 
@@ -17,11 +18,7 @@ This is currently being edited by @pangiokuhlii based on [the original Saints in
 
 A warm welcome to you, friend! We are very happy you have joined us and we look forward to enjoying the game and guilds with you.
 
-You may be curious about a lot of things and we have a step by step guide to help you transition into your new community.
-
-We highly recommend that you learn about your new guild. We do things differently than most guilds and hope you will soon experience the benefits.
-
-Progression is a step by step process where you become more informed, more skilled and ultimately a thriving member of the community and earning gold.
+You may be curious about a lot of things and we have a step by step guide to help you transition into your new community. We highly recommend that you learn about your new guild. We do things differently from most guilds and hope you will soon experience the benefits.
 
 With you in mind, we have created a [Step by Step Guide](/wiki/Step-by-Step-Guide.md) and [in-game Guild Basics Guide](/wiki/Guild-Basics.md) for you to follow to help your progression to be fun and challenging.
 
@@ -33,7 +30,7 @@ With you in mind, we have created a [Step by Step Guide](/wiki/Step-by-Step-Guid
 
 - [Guild Handbook](/wiki/Guild-Handbook.md)
 - [Guild Basics (In-Game)](/wiki/Guild-Basics.md)
-- [Ranks and Roles](/wiki/Ranks-and-Roles.md)
+- [Ranks and Roles](/wiki/Ranks-and-Roles.md), [Progression](/wiki/Step-by-Step-Guide.md)
 - [Sales Handbook](/wiki/Sales-Handbook.md)
 
 ## Benefits
@@ -80,40 +77,21 @@ Planned and suggested edits:
 1. Import contents of Google docs into wiki
    - missing: Rite, Guild Home, Performance Guidelines, Discord Overview
    - but may be consolidated into others?
-2. Find a nice theme -- this one has too much manual declaring in the sidebars and links. Try to port to readthedocs Alabaster or mkdocs.
-3. (Need help with this) Compile all images and upload to assets folder for linking in the pages 
-4. Restore formatting where relevant (Like in [[Crown Exchange]], for example)
-5. Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
-6. Find hosting so that we don't have to use the current URL tied to my github
-7. Edit text so it is less verbose and easy for members to read and navigate
-8. Remove redundant information, consolidate information
+2. Edit text so it is less verbose and easier to read. 
+3. Remove redundancies, consolidate step by step guide, guild basics, ranks and roles, performance guidelines?
    - Guild Handbook and Rules may be redundant? 
    - Absences being separate from rules might be redundant but might also be OK because people might ask a lot
    - Emphasize contributions
-9. Hype up the guild lottery & rewards for donations
-10. Find a way to make this document more private. Otherwise, more private info may be linked as static google docs.(Guild News)
+4. (Need help with this) Compile all images and upload to assets folder for linking in the pages 
+5. (Optional) Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
+6. (Optional) Find hosting so that we don't have to use the current URL
+7. (Optional) Hype up the guild lottery & rewards for donations
+8. (Optional) Find a way to make this document more private. Otherwise, more private info may be linked as static google docs.(Guild News)
 
-TBA -- Migrate saints info center here? https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit
+Original saints info corner: [keyinfo]
 
 Note: this format doesn't like it when headers aren't in order, it breaks the table of contents.
 
-<!--
-# git-wiki-skeleton
-
-NOTE: it's fully supported by github platform, you don't need to install anything locally
-
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
-
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
-
-## The git-wiki project
-
-The git-wiki project is composed by 3 different repository:
-
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
-
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it. 
-
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
-
-Version: 1.0.8 -->
+Accomplished tasks
+1. Find a nice theme -- this one has too much manual declaring in the sidebars and links. Try to port to readthedocs Alabaster or mkdocs.
+2. Restore formatting where relevant (Like in [[Crown Exchange]], for example)

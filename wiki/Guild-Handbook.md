@@ -11,7 +11,7 @@ Revised 5/7/22
  
 
 ## Quick links
-* [Discord](Link to discord)
+* [Discord](https://discord.gg/8KybyjS)
 * [Guild Basics](Guild-Basics.md)
 * [Guild Rules](Guild-Rules.md), [Absences](Absences.md)
 * [Ranks and Roles](Ranks-and-Roles.md)
