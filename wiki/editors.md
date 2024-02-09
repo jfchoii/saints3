@@ -2,6 +2,8 @@
 > 
 > For now, either click the Edit button in the upper right or navigate to <https://github.com/jfchoii/saints3/tree/master/wiki> and open the .md file of interest. You can then edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
 
+To request an edit on Github: Create a new Issue via the Issues tab in the upper left corner of the repository page at <github.com/jfchoii/saints3>. I or a collaborator will be able to directly respond to the issue created, which functions as a trackable ticket.
+
 **Don't change any filenames. This will break links until I can soft-code permanent links, if necessary.**
 
 For more complicated edits, I will post a guide explaining how to make a branch and merge branches for those unfamiliar with Github. Right now, removing pages/creating new pages is discouraged as I have to figure out the linking and provide a github guide, but I highly encourage reducing the number of pages by combining the contents into one page. 
@@ -16,8 +18,8 @@ This may be the home for static information related to the guild. Information th
 
 Similar documents: 
 - Guild Rules, Absences - merge absences into guild rules
-- Guild Handbook, Performance Guidelines, Guild Credits, ranks in ranks and roles - merge all into guild handbook (then change ranks and roles into a list of officers)
-- rewrite step by step guide into a general intro for guild handbook and remove step by step guide (Step... also includes a description of progression)
+(DONE) Guild Handbook, Performance Guidelines, Guild Credits, ranks in ranks and roles - merge all into guild handbook (then change ranks and roles into a list of officers)
+(DONE) rewrite step by step guide into a general intro for guild handbook and remove step by step guide (Step... also includes a description of progression)
 - Link Guild News to a static google sheets w/ rankings, lotteries, etc. 
 
 ---
