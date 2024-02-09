@@ -80,7 +80,7 @@ We are always open to suggestions on better ways to improve and serve you.
 
 We have no requirements other than to NOT fall into the bottom 5% of your peers in contributions and be active in the game.  
 
-Learn about your guild and go through the [[Rite of Passage]]   \
+Learn about your guild and go through the [Rite of Passage](Rite-of-Passage.md)   \
 Uphold our guild philosophy and rules \
 Take advantage of our documentation and training \
 Participate in events \
@@ -106,7 +106,7 @@ We are not like most guilds.  We set the standards low and hope you will overach
 
 We create a ranking report every week immediately after the trader flips.  The report is usually available late on Tuesday night.
 
-St Elsweyr and St Greymoor use your **weighted income average** (explained in [[Performance Guidelines]]) to determine your rank among other members.  The weighted average allows for ups and downs but not inactivity.  We do factor in adjustments if you have been with the guild for less than 4 weeks.
+St Elsweyr and St Greymoor use your **weighted income average** (explained in [Performance Guidelines](Performance-Guidelines.md)) to determine your rank among other members.  The weighted average allows for ups and downs but not inactivity.  We do factor in adjustments if you have been with the guild for less than 4 weeks.
 
 ## Your income earned may be achieved in a combination of several ways.
 
