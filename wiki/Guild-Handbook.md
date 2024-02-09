@@ -106,7 +106,7 @@ We are not like most guilds.  We set the standards low and hope you will overach
 
 We measure performance by the guild rankings. We create a ranking report every week immediately after the trader flips. The report is usually available late on Tuesday night.
 
-We use your **weighted income average** <!--(explained in [Performance Guidelines](Performance-Guidelines.md)) -->to determine your rank among other members.  The weighted average allows for ups and downs, but not inactivity.  We do factor in adjustments if you have been with the guild for less than 4 weeks. The ranking is a weighted average of two important indicators, 1. Your performance for the most current week reported, 2. Your historical performance.
+We use your **weighted income average** <!--(explained in [Performance Guidelines](Performance-Guidelines.md)) -->to determine your rank among other members.  The weighted average allows for ups and downs, but not inactivity.  We do factor in adjustments if you have been with the guild for less than 4 weeks. The ranking is a weighted average of two important indicators: 1. Your performance for the most current week reported, 2. Your historical performance.
 
 Everyone’s rank is sorted from high to low.  The person with the highest number is the top person for the week and the bottom 5% will probably be removed unless they already made arrangements for a deposit to be made or have communicated special circumstances to an officer.
 We also include pages that show sales ranks, performance for the most current week, 4 weeks and historical, donators, cumulative income and how guild credits are counted.
@@ -126,7 +126,24 @@ Guild Credits can be earned by all members. They are basically a form of guild c
 
 If you ever have any questions, please don't hesitate to ask - either on Discord in Sales or via PM to @SidewaysJoe.
 
-### Rankings
+### Expectations
+
+We hope that everyone will do their part for the whole, which is the entire cost of operating the guild. **No one takes any money or items from our guilds for personal use - ever.**  (Many guilds take 10-20% or more for the work that is required.) When we say the whole cost of operating the guild, the only thing discretionary is awards or prizes that are given to the members. If someone does not pay their part, then we lose money, which requires someone else to pay for every person that does not. <!--Why would we want to keep a member that costs us money or does not care if we succeed?-->
+
+ <!--How much is your part? We are saying that this amount is 25k per week in income from all income sources, called your Fair Share. --> How much is your part? We call this your Fair Share. For each guild, this differs, but the St Elsweyr Fair Share is 25k. How much do you need to make in pure sales to provide 25k?  We round it down to 700k. :warning: <!--(Editor's question: Is it still 700k?)-->
+
+St Elsweyr Fair Share is $25,000 of income per member\
+St Greymoor Fair Share is $20,000 of income per member\
+St Blackwood Fair Share is $15,000 of income per member
+
+Is this a requirement?  No, you can make a lot more if you want to. You can also make less, but please know that you are hurting the guild if you don’t make an alternative contribution like a donation to compensate. To be honest, the number is too low, but we would be very happy if this amount would be met by everyone.  
+
+There are many combinations of ways to make income besides sales alone.  We have a calculator that will allow you to play with the right combinations for you. ([Contribution Calculator](https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing))
+
+Also, don’t forget to buy a lottery ticket! (BIG Payouts!) The Monster lottery can have a jackpot from 1 to 6 million. If you would like to know how to participate in our lottery, check [[Guild Lotteries]] ([Guild News](Guild-News.md))
+
+
+## Rankings
 
 <!--See [Ranks and Roles](Ranks-and-Roles.md) for an explanation of progression and the basis for rankings.-->
 
@@ -136,10 +153,6 @@ All new and learning members begin with the rank of Page and progress to Squire,
 
 We have no minimum sales or donations, but your initial ability to stay in the guild and your progression as a new member is timed as we have a limited amount of openings for the ranks of Page, Squire and Crusader.  This timed progression is based entirely on how many new applicants want to join the guild and it should take about one week.  Established members have no timed limitations. 
 
-St Elsweyr Fair Share is $25,000 of income per member\
-St Greymoor Fair Share is $20,000 of income per member\
-St Blackwood Fair Share is $15,000 of income per member
-
 Page: <25% of Fair Share in one week\
 Squire: <50% of Fair Share\
 Crusader: <75% of Fair Share.\
@@ -148,21 +161,6 @@ Knight: 75-100% of Fair Share.
 As new members come into the guild, the Pages are removed first by the lowest Fair Share percent less than 25%.  Pages that have reached 25% or greater are promoted to a Squire.  Squires that have reached 50% or greater are promoted and Crusaders that have reached 75% are promoted.  Please note that you can be demoted if you fall below these percentages.  However, once you have reached the status of Knight, your income history is weighted into the percent and you will have more leeway before being demoted. 
 
 Higher ranks for established members are achievable for those that choose to excel to the rank of Paladin or the ultimate status of Lord. <!---Also listed in Ranks and Roles-->
-
-
-#### Expectations
-
-We hope that everyone will do their part for the whole. But what is the whole?
-
-It is the entire cost of operating the guild. **No one takes any money or items from our guilds for personal use - ever.**  Many guilds take 10% to 20% and even more for the work that is required. When we say the whole cost of operating the guild, the only thing discretionary is awards or prizes that are given to the members. If someone does not pay their part, then we lose money and that requires someone else to pay for every person that does not. Why would we want to keep a member that costs us money or does not care if we succeed?
-
-How much is your part?  We are saying that this amount is 25k per week in income from all income sources and we call it your Fair Share.  To be honest, the number is too low but we would be very happy if this amount would be met by everyone.  How much do you need to make in just sales to cover 25k income?  We round it down to 700k. <!--(Editor's question: Is it still 700k?)-->
-
-Is this a requirement?  No, you can make a lot more if you want to. You can also make less, but please know that you are hurting the guild if you don’t make an alternative contribution like a donation to compensate.
-
-There are many combinations of ways to make income besides sales alone.  We have a calculator that will allow you to play with the right combinations for you. ([Contribution Calculator](https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing))
-
-Also, don’t forget to buy a lottery ticket! (BIG Payouts!) The Monster lottery can have a jackpot from 1 to 6 million. If you would like to know how to participate in our lottery, check [[Guild Lotteries]] ([Guild News](Guild-News.md))
 
 ---
 <!--
@@ -184,7 +182,7 @@ There is no pass or fail here - it is multiple choice and you can’t move to th
 
 ##   Guild Quiz  ([Google Form](https://forms.gle/ksRt3FR1xCmgdJFb6))
 
-If you take a quiz, then you have learned what is necessary to become a True Saint and can now go through the Rite of Passage!  Contact any officer in discord or in game to schedule this elite and fun event and find out what is in the guild hall basement, (dungeon)!
+If you take a quiz, then you have learned what is necessary to become a True Saint and can now go through the Rite of Passage!  Contact any officer in discord or in game to schedule this elite and fun event and find out what is in the guild hall basement (dungeon)!
 
 
 
