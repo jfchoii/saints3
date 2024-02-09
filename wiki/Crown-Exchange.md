@@ -34,22 +34,20 @@ Our guild sets a competitive range of rates that Buyers may choose (any rate bet
 
 > @Exchange @Broker Ezabi the Banker / 5,000 crowns / 5,000,000 gold/ @buyername (rate 1000:1) 
 
-Note: Needs text color formatting 
-
 This format can be understood as follows: 
-- @Exchange - **This sends out a message to all crown sellers that a request has been posted 
-- @Broker - **This sends out a message to all brokers that a request has been posted 
-- Ezabi the Banker **-  This is the item being requested from the buyer 
-- 5,000 crowns **-  This is the amount of crowns that the item costs 
-- 5,000,000 gold **-  This is the gold value of the item (Total crowns X Exchange Rate) 
-- @buyername  **-  This is the name of the buyer that wants to purchase the item & has posted the request 
-- (rate 1000:1) **-  This is the rate of exchange that will be used*** 
+- @Exchange - This sends out a message to all crown sellers that a request has been posted 
+- @Broker - This sends out a message to all brokers that a request has been posted 
+- Ezabi the Banker -  This is the item being requested from the buyer 
+- 5,000 crowns -  This is the amount of crowns that the item costs 
+- 5,000,000 gold -  This is the gold value of the item (Total crowns X Exchange Rate) 
+- @buyername  -  This is the name of the buyer that wants to purchase the item & has posted the request 
+- (rate 1000:1) -  This is the rate of exchange that will be used*** 
 
-*Remember to put your rate at the _end_ of the request so that it’s easier for the Broker to confirm the right amount and rate.*
+*Remember to put your rate at the **end** of the request so that it’s easier for the Broker to confirm the right amount and rate.*
 
 Note: The reserved words @Exchange and @Broker will send a notification to interested parties that a new order has been placed.
 
-Sellers will pick up your order request by reacting with the Seller emote to the order request. You may reach out to Sellers by either a DM (Direct Message) or @sellername on the [# appointments](https://discordapp.com/channels/585172092119547925/854085490638979092) channel to arrange a time convenient to both of you so that the Crown Exchange may occur.
+Sellers will pick up your order request by reacting with the Seller emote to the order request. You may reach out to Sellers by either a DM (Direct Message) or @sellername on the [#appointments](https://discordapp.com/channels/585172092119547925/854085490638979092) channel to arrange a time convenient to both of you so that the Crown Exchange may occur.
 
 Buyers and Sellers may negotiate a different rate for the Crown Exchange as long as the rate is not higher or lower than the range set by the Guild.
 

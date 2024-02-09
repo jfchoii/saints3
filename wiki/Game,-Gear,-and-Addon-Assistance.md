@@ -4,7 +4,6 @@ https://docs.google.com/document/d/1i3shWjiAahJGDNV_0fKYMIkKm4QmjxxFcpF7ToYdfx4/
 
 Revised Oct 10th, 2021
 
-(Editor's note: Will fix links to headers)
 <!--
 (! Fix links to headers) \
 [Overview](https://docs.google.com/document/d/e/2PACX-1vToFf2jOuISDt0TnpnSypuDftLm12WgBDu-RUWnpZQkF_nRD-sEcD_f64JS_tCqe5EeHZEvKxlGKvZb/pub#h.j2msb21omv1m) \

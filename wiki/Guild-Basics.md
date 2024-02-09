@@ -29,13 +29,13 @@ When you see the name of the correct guild, you may start chatting with other me
 ---
 
 ## 2. How to use the Guild Bank
-The guild bank may only be used to deposit either gold for donations or to deposit items for donations.  You will receive [[guild credits]] if you make donations.  You may not make withdrawals from St Elsweyr until such time that you might reach an appropriate rank that you would need to be appointed to.  This is customary for most trading guilds because large amounts of gold are stored in order to make weekly bids and valuable items are stored in which will be used to resell, for auctions or for awards and prizes.
+The guild bank may only be used to deposit either gold for donations or to deposit items for donations.  You will receive [[Guild Credits]] if you make donations. You may not make withdrawals from St. Elsweyr until such time that you might reach an appropriate rank that you would need to be appointed to.  This is customary for most trading guilds because large amounts of gold are stored in order to make weekly bids and valuable items are stored in which will be used to resell, for auctions or for awards and prizes.
 
 First, you must go to a local bank in any city within any region in the game. \
 Step up to the bank teller and press E to interact. You will have three choices: 
 1. Open your own personal bank options 
-1. Open the guild bank options 
-1. Open the guild bank store options 
+2. Open the guild bank options 
+3. Open the guild bank store options 
 
 Most tellers are not this rude:
 

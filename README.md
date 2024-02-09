@@ -1,7 +1,3 @@
-
-
-
-
 **Welcome!**
 
 This is currently being edited by @pangiokuhlii based on [the original Saints info center][keyinfo]
@@ -80,7 +76,7 @@ Planned and suggested edits:
    - Guild Handbook and Rules may be redundant? 
    - Absences being separate from rules might be redundant but might also be OK because people might ask a lot
    - Emphasize contributions
-3. **(Need help with this)** Compile all images, rename and upload files to assets folder for linking in the pages. The logo is currently a screenshot.
+3. **(Need help with this)** Compile all images, rename and upload files to assets folder for linking in the pages. Also, the logo is currently a screenshot.
 4. (Optional) Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
 5. (Optional) Find hosting so that we don't have to use the current URL
 6. (Optional) Hype up the guild lottery & rewards for donations
@@ -91,5 +87,5 @@ Planned and suggested edits:
 Note: this format doesn't like it when headers aren't in order, it breaks the table of contents.
 
 Accomplished tasks
-1. Find a nice theme -- this one has too much manual declaring in the sidebars and links. Try to port to readthedocs Alabaster or mkdocs.
+1. Find a nice theme 
 2. Restore formatting where relevant (Like in [[Crown Exchange]], for example)
