@@ -1,5 +1,3 @@
-)
-
 > For Editors: You can edit the markdown files directly in the github.com interface without having to install anything, but do not change the filenames. For now, navigate to <https://github.com/jfchoii/saints3/tree/master/wiki> and open the .md file of interest. You can then edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
 
 **Don't change any filenames. This will break links until I can soft-code permanent links, if necessary.**
