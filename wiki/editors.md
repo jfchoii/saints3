@@ -24,14 +24,14 @@ Similar documents:
 
 # Big tasks that needs help
 
-Title: Image wrangler \
+#### Title: Image wrangler \
 Task: Downloading images used in google docs
 1. Download images from the Google Docs 
 2. To easily link to them within the file, rename the image to an easily copied name following document-number.jpg (example: mastermerchantsetup-1.jpg)
 3. Place the images into the assets folder. If there are many, I suggest making its own folder. (the master merchant setup guide has many images so it may have its own folder.)
-4. Editor or image wrangler will link to image within markdown document using '[alt text](image url)' syntax. (For example, '[addon setup](addon-1.jpg)')
+4. Editor or image wrangler will link to image within markdown document using `[alt text](image url)` syntax. (For example, `[Addon settings](addons-1.jpg)`)
 
-Title: Text wrangler \
+#### Title: Text wrangler \
 Task: Updating outdated information in posts & merging redundant information (Preferably a GM or Officer does this)
 
 ---
