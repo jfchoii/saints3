@@ -188,6 +188,6 @@ If you take a quiz, then you have learned what is necessary to become a True Sai
 
 
 
-## **Remember this ...** 
-
- If you find yourself getting closer to the bottom, stand tall and take the initiative to improve and get help. Members that are visibly trying to improve are never removed. We want to help you help yourself and to be successful. See our [Sales Handbook](Sales-Handbook.md)
+> **Remember this ...** 
+>
+> If you find yourself getting closer to the bottom, stand tall and take the initiative to improve and get help. Members that are visibly trying to improve are never removed. We want to help you help yourself and to be successful. See our [Sales Handbook](Sales-Handbook.md)
