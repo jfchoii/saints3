@@ -62,6 +62,7 @@ Access site at <https://jfchoii.github.io/saints3>, pages at <https://github.com
 
 > For Editors: You can edit the markdown files directly in the github.com interface without having to install anything, but **do not change the filenames** or links will break. 
 > To edit, navigate to <https://github.com/jfchoii/saints3/tree/master/wiki> and open the .md file of interest. You can then edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
+> When saving the edits, select "Create new branch for this commit and start a pull request" -- this enables the admin (currently me) to approve edits before they are merged into the master branch (which the site reads from). You can continue editing pages within the same branch you created.
 
 
 
