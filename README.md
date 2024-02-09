@@ -60,12 +60,11 @@ Please join us if you can.  There are many resources in Discord that will come i
 
 **Editor's notes -- members can stop reading here**
 
-For Editors: You can edit the markdown files directly in the github.com interface without having to install anything. I will post a guide explaining how to make a branch and merge branches for those unfamiliar with Github.
-
-Right now, editing of the main file tree and creating new pages are discouraged as I have to figure out the linking and provide a github guide. \ 
-For now, navigate to [https://github.com/jfchoii/saints3/tree/master/wiki](https://github.com/jfchoii/saints3/tree/master/wiki) and open the file of interest. You can edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
+> For Editors: You can edit the markdown files directly in the github.com interface without having to install anything, but do not change the filenames. For now, navigate to <https://github.com/jfchoii/saints3/tree/master/wiki> and open the .md file of interest. You can then edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
 
 **Don't change any filenames. This will break links until I can soft-code permanent links, if necessary.**
+
+For more complicated edits, I will post a guide explaining how to make a branch and merge branches for those unfamiliar with Github.Right now, removing pages/creating new pages is discouraged as I have to figure out the linking and provide a github guide, but I highly encourage reducing the number of pages by combining the contents into one page. \ 
 
 ---
 

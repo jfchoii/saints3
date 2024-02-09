@@ -1,6 +1,6 @@
 # Crown Exchange Program for all Saint’s Guilds
 
-https://docs.google.com/document/d/12pdtGuxgblC3QLYpwusw2w2sUNJwt43xOQNeET8pi84/edit
+<https://docs.google.com/document/d/12pdtGuxgblC3QLYpwusw2w2sUNJwt43xOQNeET8pi84/edit>
 
 Revised 6/8/22
 
@@ -22,8 +22,7 @@ To ensure that the Crown Exchange remains scam-free for our guild members, Broke
 
 **Reaction or Emotes Used for Crown Exchange**
 
-(Put key here)
-
+(Place key here, image)
 
 ### Buyers
 
