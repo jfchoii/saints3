@@ -56,18 +56,13 @@ Please join us if you can.  There are many resources in Discord that will come i
 
 **Editor's notes -- members can stop reading here**
 
-[Complete notes, changelog here](wiki/editors.md)
+Access site at <https://jfchoii.github.io/saints3>, pages at <https://github.com/jfchoii/saints3/blob/master/wiki/>
 
-> For Editors: You can edit the markdown files directly in the github.com interface without having to install anything, but do not change the filenames. For now, navigate to <https://github.com/jfchoii/saints3/tree/master/wiki> and open the .md file of interest. You can then edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
+[Original saints info corner][keyinfo] || [Complete notes, changelog here](wiki/editors.md)
 
-**Don't change any filenames. This will break links until I can soft-code permanent links, if necessary.**
-
-For more complicated edits, I will post a guide explaining how to make a branch and merge branches for those unfamiliar with Github.Right now, removing pages/creating new pages is discouraged as I have to figure out the linking and provide a github guide, but I highly encourage reducing the number of pages by combining the contents into one page. \ 
-
----
-
-Access site at <https://jfchoii.github.io/saints3> ; Access the editable wiki pages at <https://github.com/jfchoii/saints3/blob/master/wiki/>
+> For Editors: You can edit the markdown files directly in the github.com interface without having to install anything, but **do not change the filenames** or links will break. 
+> To edit, navigate to <https://github.com/jfchoii/saints3/tree/master/wiki> and open the .md file of interest. You can then edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
 
 
-[Original saints info corner][keyinfo]
+
 
