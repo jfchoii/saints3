@@ -64,14 +64,14 @@ Access site at <https://jfchoii.github.io/saints3>, pages at <https://github.com
 
 [Original saints info corner][keyinfo] 
 
-[Complete Editor's notes, changelog here](wiki/editors.md)
+#### [Complete Editor's notes here](wiki/editors.md)
 
-> For Editors: If you are an approved collaborator, you can edit the markdown files directly in the github.com interface without having to install anything, but **do not change the filenames** or links will break. 
-> To edit, you can click the **Edit** link in the upper right side of the site's page.
-> Alternatively, you can navigate within <https://github.com/jfchoii/saints3/tree/master/wiki> and open the .md file of interest. You can then edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
-> 
-> When saving the edits, select "Create new branch for this commit and start a pull request" -- this enables the admin (currently me) to approve edits before they are merged into the master branch (which the site reads from). You can continue editing pages within the same branch you created.
+#### How to edit
 
+For Editors: You can edit the markdown files directly in the github.com interface without having to install anything, but do not change the filenames. 
 
+For now, click the Edit button in the upper right to open the .md file of interest. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/) When saving the edits, select "Create new branch for this commit and start a pull request" -- this enables the admin (currently me) to approve edits before they are merged into the master branch (which the site reads from). You can continue editing pages within the same branch you created.
+
+To request an edit on Github: Create a new Issue via the Issues tab in the upper left corner of the repository page at <github.com/jfchoii/saints3>. I or a collaborator will be able to directly respond to the issue created, which functions as a trackable ticket.
 
 
