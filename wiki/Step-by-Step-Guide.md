@@ -10,20 +10,20 @@ Your first accomplishment is that you made it this far in the documentation!  Ke
 
 We have two communication and knowledge hubs to choose from:
 
-1. Discord - No interaction is required.  You do not need headsets nor are you required to talk.  Discord is actually easier, more fun with more enjoyable content.  [Join now by clicking this link] (https://discord.gg/BvsTpQKhrF)   
-Or, first learn about Discord and then join:  Discord Overview
-1. Non-Discord - Go to this link in your browser: <jfchoii.github.io/saints3> or <tiny.one/allsaints> and you will be greeted with a table of contents that will link you to all guild and game information, guidelines, helpful information and the latest news that is updated weekly.
+1. Discord - No interaction is required.  You do not need headsets nor are you required to talk.  Discord is actually easier, more fun with more enjoyable content.  Join now by clicking [this link](https://discord.gg/BvsTpQKhrF)   
+or learn about Discord and then join:  [Discord Overview](Discord-Overview.md)
+1. Non-Discord - Go to this link in your browser: <https://jfchoii.github.io/saints3> or <https://tiny.one/allsaints> and you will be greeted with a table of contents that will link you to all guild and game information, guidelines, helpful information and the latest news that is updated weekly.
 
 Once you have access to the information, then your journey begins.
 
 
-## Step 2 - Read, Learn and ACT
+## Step 2 - Read, Learn and Act
 We recommend that all members read though our [Guild Handbook](Guild-Handbook.md), and if you are completely new  to trading guilds that you start with [Guild Basics](Guild-Basics.md).
 
 We want you to be successful and we care deeply about you as a person and your level of enjoyment in the guild and game.
 
 
-If you need help with selling, we recommend that you carefully read our [Sales Handbook](Sales-Handbook.md).  Do your best to learn and grow.  We can help you, which is explained in the [Guild Handbook](Guild-Handbook.md).
+If you need help with selling, we recommend that you carefully read our [Sales Handbook](Sales-Handbook.md).  We can help you, and assistance that the guild can offer is explained in the [Guild Handbook](Guild-Handbook.md). <!--Do your best to learn and grow.  We can help you, which is explained in the [Guild Handbook](Guild-Handbook.md).-->
 
 Stay informed by reading the [Guild News](Guild-News.md).  Updates are usually made by the end of every Tuesday.  The Ranking reports, lottery results, events and awards are also linked in the News also and for non-discord members, every update is published in the in-game MOTD (Message of the day)!
 
@@ -34,9 +34,10 @@ Act by starting to sell, making gold and rewarding yourself with meeting the cha
 
 <!-- :warning: provide a bare-bones summary here and then link to GHB for complete description.-->
 
-Progression is a step by step process where you become more informed, more skilled and ultimately a thriving member of the community and you are increasing your income earned.
+Progression is a step by step process where you become a more informed, more skilled and, ultimately, a thriving member of the community while you are increasing your income. Your growth and progression to each new rank is based on your total INCOME that you earn and can be a combination of several things: Sales, Gold Donations, Item Donations, Lottery purchases and credits for jobs done for the guild. 
 
-We have no minimum sales or donations, but your initial ability to stay in the guild and your progression as a new member is timed as we have a limited amount of openings for the ranks that earn a total income below Fair Share. Your Fair Share is only HALF of the cost of running the guild divided by 500 members. Each guild has a different Fair Share because the trader costs are significantly different.
+We have no minimum sales or donations, but we need everyone to play their part in contributing towards the cost of operating the guild. Your part, called the Fair Share, is only HALF of the cost of running the guild divided by 500 members.  Your initial ability to stay in the guild and your progression as a new member is timed as we have a limited amount of openings for the ranks that earn a total income below Fair Share. Each guild has a different Fair Share because the trader costs are significantly different.
+
 
 See the [Guild Handbook](Guild-Handbook.md) for a detailed description on ranking and progression.
 
