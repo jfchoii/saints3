@@ -18,15 +18,15 @@ Revised 5/7/22
 * [Sales Handbook](Sales-Handbook.md)
 * [Game, Gear, and Addon Assistance](Game,-Gear,-and-Addon-Assistance.md))
 
-### Guild Philosophy 
-
-Always remember you are playing with real people - Don’t hide behind a screen \
-Everyone deserves the same respect and friendliness that you want \
-We are all capable and worthy people \
-Help others become the best they can be \
-We are here to have fun \
-Be adults with maturity, but let the kid inside shine  \
-Dwell in an environment of trust  
+> ***Guild Philosophy ***
+> 
+> Always remember you are playing with real people - Don’t hide behind a screen \
+> Everyone deserves the same respect and friendliness that you want \
+> We are all capable and worthy people \
+> Help others become the best they can be \
+> We are here to have fun \
+> Be adults with maturity, but let the kid inside shine  \
+> Dwell in an environment of trust  
 
 ## [Guild Rules](Guild-Rules.md)
 
@@ -46,7 +46,10 @@ The very first step you can take to help yourself and that will show other membe
 
 ## New to Guilds?
 
-No problem, you should find a few answers to the basics here. ([Guild Basics](Guild-Basics.md), [Step-by-Step Guide](Step-by-Step Guide.md))
+To new members: The sales amounts may seem overwhelming but we can easily teach you how to make millions. Read our [Guild Basics](Guild-Basics.md) and please start selling right away.  Read our [Sales Handbook](Sales-Handbook.md) to get better at sales and please ask any one of our friendly members for tips on learning to learn to sell BIG.  
+
+New members have a temporary probation period where we do expect you to make an effort in selling.  Zero sales within your first or second week is not acceptable.
+
 
 
 ## How we help each other
@@ -129,12 +132,6 @@ You can also make less, but please know that you are hurting the guild if you do
 There are many combinations of ways to make income besides sales alone.  We have a calculator that will allow you to play with the right combinations for you. ([Contribution Calculator](https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing))
 
 Also, don’t forget to buy a lottery ticket (BIG Payouts) The Monster lottery can have a jackpot from 1 to 6 million! If you would like to know how to participate in our lottery, check [[Guild Lotteries]]
-
-## New Members 
-
-The sales amounts may seem overwhelming but we can easily teach you how to make millions. Read our [Guild Basics](Guild-Basics.md) and please start selling right away.  Read our  to get better at sales and please ask any one of our friendly members for tips on learning to learn to sell BIG.  
-
-New members have a temporary probation period where we do expect you to make an effort in selling.  Zero sales within your first or second week is not acceptable.
 
 # Conclusion
 How much did you learn? \

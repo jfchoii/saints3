@@ -3,12 +3,13 @@
 Revised 8/22/21
 [Source](https://docs.google.com/document/d/1Ly6wXKiiUq8jVv2ID26xzYmwmVPCzhIiVFdzvaT89xw/edit)
 
-## All experts were once beginners.
+**All experts were once beginners.**
 
 > “Tell me and I forget, teach me and I may remember, involve me and I learn.”  ― Benjamin Franklin 
 
 This Guide covers the basics of guild interaction with Guild Chat, Guild Store and Guild Bank.
 
+---
 
 ## 1. How to talk in Guild Chat
 
