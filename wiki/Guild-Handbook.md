@@ -154,8 +154,8 @@ All new and learning members begin with the rank of Page and progress to Squire,
 We have no minimum sales or donations, but your initial ability to stay in the guild and your progression as a new member is timed as we have a limited amount of openings for the ranks of Page, Squire and Crusader.  This timed progression is based entirely on how many new applicants want to join the guild and it should take about one week.  Established members have no timed limitations. 
 
 Page: <25% of Fair Share in one week\
-Squire: <50% of Fair Share\
-Crusader: <75% of Fair Share.\
+Squire: 25-50% of Fair Share\
+Crusader: 50-75% of Fair Share.\
 Knight: 75-100% of Fair Share.
 
 As new members come into the guild, the Pages are removed first by the lowest Fair Share percent less than 25%.  Pages that have reached 25% or greater are promoted to a Squire.  Squires that have reached 50% or greater are promoted and Crusaders that have reached 75% are promoted.  Please note that you can be demoted if you fall below these percentages.  However, once you have reached the status of Knight, your income history is weighted into the percent and you will have more leeway before being demoted. 
