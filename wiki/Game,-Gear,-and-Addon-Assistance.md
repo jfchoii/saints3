@@ -26,6 +26,7 @@ This document describes the different types of game knowledge that is often requ
 
 It is also important to note that players come in a range of different playstyles, so when providing game advice, it is first important to understand their game goals and playstyle before providing recommendations.  For example, a progression meta would be completely inefficient if the player mostly played solo or PVP, etc.  Also worth noting is that players have vastly different time commitments to the game and ability or willingness to understand the intricacies of the game.  Essentially, it is important to note whether or not they are a casual gamer or have end game goals.
 
+---
 
 ## Game mechanics, builds and more
 
@@ -57,6 +58,8 @@ Several sites already describe game mechanics very well.
 * [ESO Character Build Checklist (Guide)](https://www.youtube.com/watch?v=Yv3xFK4Z0Qc) - Great into video by Dottz
 * [How to do a DPS Parse & Optimize Your Damage in ESO](https://dottzgaming.com/eso-guides/general/how-to-do-a-dps-parse-optimize-your-damage/) - Great video by Dottz to help increase DPS
 
+---
+
 ## Addons
 * [Elder Scrolls Online AddOns](https://www.esoui.com/addons.php) - site with list of all ESO addons with download instructions and dependencies.  
 * [Minion - Premier AddOn Management](https://minion.mmoui.com/) - Minion download link
@@ -65,11 +68,13 @@ Several sites already describe game mechanics very well.
 
 ### Trading Addons
 List other trading addons here \
-[[Master Merchant Setup]]
+[Master Merchant Setup](Master-Merchant-Setup.md)
 
 ### My Addons
 These are the addons I use regularly.  Note the greyed out addons are not relevant for this character (e.g. ShalkTracker is Warden specific).  Also, I often use only a portion of an addon if there are better features from another addon.  To use similar addons (e.g. addons PVP alerts), simply disable the portion of the addon that you are not using in the settings menu.  If you do not do so, you will either get conflict errors or a lot of overlapping screen or chat messages. \
 (Add image or list)
+
+---
 
 ## General guidelines for providing game assistance to guild members:
 

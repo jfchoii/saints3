@@ -2,7 +2,7 @@
 
 
 
-# Welcome to the saints wiki! 
+**Welcome!**
 
 This is currently being edited by @pangiokuhlii based on [the original Saints info center][keyinfo]
 
@@ -10,7 +10,9 @@ This is currently being edited by @pangiokuhlii based on [the original Saints in
 
 ---
 
-# [Guild News](wiki/Guild-News.md)
+# [Guild News][keyguildnews]
+
+[keyguildnews]: wiki/Guild-News.md
 
 ---
 
@@ -26,31 +28,29 @@ With you in mind, we have created a [Step by Step Guide](/wiki/Step-by-Step-Guid
 
 # Links
 
-## Information
+#### Information
 
 - [Guild Handbook](/wiki/Guild-Handbook.md)
 - [Guild Basics (In-Game)](/wiki/Guild-Basics.md)
 - [Ranks and Roles](/wiki/Ranks-and-Roles.md), [Progression](/wiki/Step-by-Step-Guide.md)
 - [Sales Handbook](/wiki/Sales-Handbook.md)
 
-## Benefits
+#### Benefits
 
 - [Guild Home](/wiki/Guild-Home.md)
 - [Crown Exchange](/wiki/Crown-Exchange.md)
 - [Rite of Passage](/wiki/Rite-of-Passage.md)
-- [Guild Lottery](/wiki/Guild-News.md)
+- [Guild Lottery][keyguildnews]
 - Awards and Prizes
 - [[Guild Credits]]
 
-## Reference
+#### Reference
 
 - [Games, Gear, and Addon Assistance](/wiki/Game,-Gear,-and-Addon-Assistance.md)
 - [Sales Handbook](/wiki/Sales-Handbook.md)
 - [Master Merchant Setup](/wiki/Master-Merchant-Setup.md)
 
----
-
-# [Discord](https://discord.gg/8KybyjS)
+#### [Discord](https://discord.gg/8KybyjS)
 Please join us if you can.  There are many resources in Discord that will come in handy. You do not need to have a headset or talk in Discord - it is mostly just typing if you want and reading, if you can.  
 
 **[Join our Discord here](https://discord.gg/8KybyjS)**
@@ -58,7 +58,7 @@ Please join us if you can.  There are many resources in Discord that will come i
 
 ---
 
-#### Editor's notes -- members can stop reading here
+**Editor's notes -- members can stop reading here**
 
 For Editors: You can edit the markdown files directly in the github.com interface without having to install anything. I will post a guide explaining how to make a branch and merge branches for those unfamiliar with Github.
 
@@ -76,19 +76,18 @@ This may be the home for static information related to the guild. Information th
 Planned and suggested edits:
 1. Import contents of Google docs into wiki
    - missing: Rite, Guild Home, Performance Guidelines, Discord Overview
-   - but may be consolidated into others?
 2. Edit text so it is less verbose and easier to read. 
-3. Remove redundancies, consolidate step by step guide, guild basics, ranks and roles, performance guidelines?
+   - Remove redundancies, consolidate step by step guide, guild basics, ranks and roles, performance guidelines?
    - Guild Handbook and Rules may be redundant? 
    - Absences being separate from rules might be redundant but might also be OK because people might ask a lot
    - Emphasize contributions
-4. (Need help with this) Compile all images and upload to assets folder for linking in the pages 
-5. (Optional) Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
-6. (Optional) Find hosting so that we don't have to use the current URL
-7. (Optional) Hype up the guild lottery & rewards for donations
-8. (Optional) Find a way to make this document more private. Otherwise, more private info may be linked as static google docs.(Guild News)
+3. **(Need help with this)** Compile all images, rename and upload files to assets folder for linking in the pages. The logo is currently a screenshot.
+4. (Optional) Restructure documentation to emphasize trading help and assistance (addons, pricing, farming, flipping, crafting, etc)
+5. (Optional) Find hosting so that we don't have to use the current URL
+6. (Optional) Hype up the guild lottery & rewards for donations
+7. (Optional) Find a way to make this document more private. Otherwise, more private info may be linked as static google docs.(Guild News)
 
-Original saints info corner: [keyinfo]
+[Original saints info corner][keyinfo]
 
 Note: this format doesn't like it when headers aren't in order, it breaks the table of contents.
 
