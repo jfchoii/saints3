@@ -2,7 +2,7 @@
 
 [Source](https://docs.google.com/document/d/12FLRxtxWymUOP0qMJi5nVJau9v-fuHgrKBRPqouA3nU/edit)
 
-Consolidated with guild handbook, mostly
+Consolidated with guild handbook, mostly. The items left are Guild Credits, which are not present in the latest iteration of the Guild HB.
 
 <!--Editor's note: Incorporate this into Guild Rules/Guild Handbook? Or keep performance guidelines and migrate ranks into this?-->
 
