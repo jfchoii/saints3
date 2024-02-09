@@ -24,7 +24,7 @@ Similar documents:
 
 ---
 
-#### Big tasks that needs help
+#### Big tasks that need help
 
 #### Title: Image wrangler \
 Task: Downloading images used in google docs
