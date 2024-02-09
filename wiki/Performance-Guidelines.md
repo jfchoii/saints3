@@ -2,7 +2,7 @@
 
 [Source](https://docs.google.com/document/d/12FLRxtxWymUOP0qMJi5nVJau9v-fuHgrKBRPqouA3nU/edit)
 
-Editor's note: Incorporate this into Guild Rules/Guild Handbook? Or keep performance guidelines and migrate ranks into this?
+<!--Editor's note: Incorporate this into Guild Rules/Guild Handbook? Or keep performance guidelines and migrate ranks into this?-->
 
 ## Measuring Performance
 We are not like most guilds.  We set the standards low and hope you will overachieve.  We don’t have any requirements - except stay out of the bottom 5% of performers and don’t be inactive.  Maximum inactivity is two weeks.  We have high hopes that you will want to help the guilds be a success and contribute even if you don’t have to.  

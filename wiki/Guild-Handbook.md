@@ -18,7 +18,7 @@ Revised 5/7/22
 * [Sales Handbook](Sales-Handbook.md)
 * [Game, Gear, and Addon Assistance](Game,-Gear,-and-Addon-Assistance.md))
 
-> ***Guild Philosophy ***
+> **Guild Philosophy**
 > 
 > Always remember you are playing with real people - Don’t hide behind a screen \
 > Everyone deserves the same respect and friendliness that you want \
