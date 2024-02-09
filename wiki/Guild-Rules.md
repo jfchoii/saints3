@@ -21,20 +21,20 @@ Also see [[Absences]] and [[Sales Handbook]]
 (Editor's comment: Isn't this in the handbook?)-->
 
 ## DA RULES 
-1. Have Fun
-   - Real life has enough challenges. We play the game to have fun and we should never lose sight of that. 
-1. Respect The Rules
+### 1. Have Fun
+  Real life has enough challenges. We play the game to have fun and we should never lose sight of that. 
+### 1. Respect The Rules
    - The rules apply to everyone and they are enforced.
    - We wish we did not need rules and hope that someday we can throw them away, but until that day: Learn them, respect them and enforce them. 
    - We enforce the Zenimax Code of Conduct https://account.elderscrollsonline.com/code-of conduct AND only use language that is used in the game dialog.
-1. Mind Your Manners 
-   - Be respectful, don’t demand anything or beg by asking members for free items and remember to say please and thank you. Treat and be treated with kindness and respect for each other. Remember this is just a game, but the players are real people. 
+### 2. Mind Your Manners 
+  Be respectful, don’t demand anything or beg by asking members for free items and remember to say please and thank you. Treat and be treated with kindness and respect for each other. Remember this is just a game, but the players are real people. 
 1. Manage Conflict  
-   - 500, 1,000 or 1,500  friends can never avoid having a disagreement about something at some point in time.  However, you can agree to disagree and you can control how you express yourself and keep it  private. However, there are some actions that cannot be excused and for those instances, we  want you to report such actions to any officer. Please try to manage conflict by taking the challenge to find the good in all people and tell them what you found. 
+  500, 1,000 or 1,500  friends can never avoid having a disagreement about something at some point in time.  However, you can agree to disagree and you can control how you express yourself and keep it  private. However, there are some actions that cannot be excused and for those instances, we  want you to report such actions to any officer. Please try to manage conflict by taking the challenge to find the good in all people and tell them what you found. 
  
    > “I don’t like that man, I must get to know him better” - Abraham Lincoln
 
-   - Our community is friendly, kind, helpful and drama free with true guild spirit.  We expect that you will contribute to this great environment and avoid any derogatory behavior and comments.  Please do not subject yourself or others to gossip or attempt to influence other members to  agree with you. We all have a right to our own opinion and unless asked, keep yours private.
+  Our community is friendly, kind, helpful and drama-free with true guild spirit.  We expect that you will contribute to this great environment and avoid any derogatory behavior and comments.  Please do not subject yourself or others to gossip or attempt to influence other members to  agree with you. We all have a right to our own opinion and unless asked, keep yours private.
 1. Guild Chat AND Discord Channels  \
   Guild chat and open Discord channels are always open for anyone to use and see. When  you use it, you are representing yourself AND the guild. Be positive, friendly and helpful  The reputation of the guild depends on you. In short – Be an adult. This list is not all-inclusive and we reserve the right to revise it to meet the needs of the guild at our discretion. 
    - Avoid all controversial subjects on religion, politics, sex, or race.
