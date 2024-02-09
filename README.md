@@ -60,7 +60,7 @@ Please join us if you can.  There are many resources in Discord that will come i
 
 Currently deploying site from branch `1-merge`
 
-Access site at <https://jfchoii.github.io/saints3>, pages at <https://github.com/jfchoii/saints3/blob/master/wiki/>
+Access site at <https://jfchoii.github.io/saints3>, pages at <https://github.com/jfchoii/saints3/blob/1-merge/wiki/>
 
 [Original saints info corner][keyinfo] 
 
