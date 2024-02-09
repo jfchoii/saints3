@@ -4,11 +4,11 @@
 
 **Don't change any filenames. This will break links until I can soft-code permanent links, if necessary.**
 
-For more complicated edits, I will post a guide explaining how to make a branch and merge branches for those unfamiliar with Github. Right now, removing pages/creating new pages is discouraged as I have to figure out the linking and provide a github guide, but I highly encourage reducing the number of pages by combining the contents into one page. \ 
+For more complicated edits, I will post a guide explaining how to make a branch and merge branches for those unfamiliar with Github. Right now, removing pages/creating new pages is discouraged as I have to figure out the linking and provide a github guide, but I highly encourage reducing the number of pages by combining the contents into one page. 
 
 ---
 
-Access site at <shttps://jfchoii.github.io/saints3> ; Access the editable wiki pages at <https://github.com/jfchoii/saints3/blob/master/wiki/>
+Access site at <https://jfchoii.github.io/saints3> ; Access the editable wiki pages at <https://github.com/jfchoii/saints3/blob/master/wiki/>
 
 This may be the home for static information related to the guild. Information that is constantly updated may be links to sheets/docs.
 
