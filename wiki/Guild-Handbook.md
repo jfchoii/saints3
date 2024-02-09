@@ -102,7 +102,7 @@ It is listening  . . . It is caring about the whole.
 
 # Requirements for our Trading Guilds
 
-We are not like most guilds.  We set the standards low and hope you will overachieve because you want to and not because you are forced. ** We don’t have any requirements - except stay out of the bottom 5% of your peers in supporting the guild and don’t be inactive.**  Maximum inactivity is two weeks, and you must not go two weeks without making any sales.  We have high hopes that you will want to help the guilds be a success and contribute even if you don’t have to because you know it is needed for success.   
+We are not like most guilds.  We set the standards low and hope you will overachieve because you want to and not because you are forced. **We don’t have any requirements - except stay out of the bottom 5% of your peers in supporting the guild and don’t be inactive.**  Maximum inactivity is two weeks, and you must not go two weeks without making any sales.  We have high hopes that you will want to help the guilds be a success and contribute even if you don’t have to because you know it is needed for success.   
 
 We measure performance by the guild rankings. We create a ranking report every week immediately after the trader flips. The report is usually available late on Tuesday night.
 
