@@ -128,7 +128,7 @@ If you ever have any questions, please don't hesitate to ask - either on Discord
 
 ### Expectations
 
-We hope that everyone will do their part for the whole, which is the entire cost of operating the guild. **No one takes any money or items from our guilds for personal use - ever.**  (Many guilds take 10-20% or more for the work that is required.) When we say the whole cost of operating the guild, the only thing discretionary is awards or prizes that are given to the members. If someone does not pay their part, then we lose money, which requires someone else to pay for every person that does not. <!--Why would we want to keep a member that costs us money or does not care if we succeed?-->
+We hope that everyone will do their part for the whole <!--, which is the entire -->cost of operating the guild. **No one takes any money or items from our guilds for personal use - ever.**  (Many guilds take 10-20% or more for the work that is required.) When we say the whole cost of operating the guild, the only thing discretionary is awards or prizes that are given to the members. If someone does not pay their part, then we lose money, which requires someone else to pay for every person that does not. <!--Why would we want to keep a member that costs us money or does not care if we succeed?-->
 
  <!--How much is your part? We are saying that this amount is 25k per week in income from all income sources, called your Fair Share. --> How much is your part? We call this your Fair Share. For each guild, this differs, but the St Elsweyr Fair Share is 25k. How much do you need to make in pure sales to provide 25k?  We round it down to 700k. :warning: <!--(Editor's question: Is it still 700k?)-->
 
