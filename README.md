@@ -4,6 +4,8 @@ This is currently being edited by @pangiokuhlii based on [the original Saints in
 
 [keyinfo]: https://docs.google.com/document/d/11WGFPT37VFWoyjmTzDjWOHQcPMAsb82RIPQM3LJiZhQ/edit
 
+:warning: This commit proposes a merging mentioned in <editors.md> to reduce redundant information and pages. Also, what about guild credits?
+
 ---
 
 # [Guild News][keyguildnews]

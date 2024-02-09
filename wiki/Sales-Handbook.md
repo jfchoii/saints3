@@ -59,7 +59,7 @@ Another very important addon for farming is called Harvest Maps and is highly re
 
 > TIP:  Move as fast as you can, by using methods to increase your SPEED.  At a minimum, wear some jewelry with the Swift trait on them.  You can acquire the [Ring of the Wild Hunt](https://arzyelbuilds.com/ring-of-the-wild-hunt-guide-ring-of-the-wild-hunt-leads-location/) by doing Antiquities. It increases your movement speed by 45% while out of combat, which is huge!  You need 5 items to be able to create the Mythic ring. 
 
-<!-->Location of the 5 pieces:
+<!--Location of the 5 pieces:
  - Greenshade - Symbol of Y'ffre - World Bosses
 > - Grahtwood - Face of the Serpent - Elden Hollow Last Boss
 > - Glenumbra - Band of Water - Public Dungeon Bosses Bad Man's Hallow
@@ -106,13 +106,13 @@ Speed is another convenience in crafting to minimize your time to craft and coll
 Champion point allocation is also very important to help increase your odds in refining and collecting.  Alcast has an excellent site for teaching you how to do daily writs https://alcasthq.com/eso-crafting-writs-guide/ and also has advice on assigning 
 champion points.
 
-Crafting Certification:
-1. Once you reach lvl 6 see Millenith, Danel Telleno, and Felarian to start the quests to begin your certification Millenith can certify you in Blacksmithing, Clothier and Woodworking and can be found in the Fighters Guild in your starting city based on your alliance. Danel can cerfify you in Enchanting, Alchemy and Provisioning and is located in your starter city at the Mages Guild. Felarian can cerfify you in Jewelry at level 7 and is located outside the crafting district in the city of Alinor, in Summerset. 
+**Crafting Certification:**
+Once you reach lvl 6 see Millenith, Danel Telleno, and Felarian to start the quests to begin your certification Millenith can certify you in Blacksmithing, Clothier and Woodworking and can be found in the Fighters Guild in your starting city based on your alliance. Danel can cerfify you in Enchanting, Alchemy and Provisioning and is located in your starter city at the Mages Guild. Felarian can cerfify you in Jewelry at level 7 and is located outside the crafting district in the city of Alinor, in Summerset. 
 
 Alliance Starting Cities:
 	   1. for Aldmeri Dominion Pact - Auridon (Vulkhel Guard)
        2. for Daggerfall Pact- Davon's Watch
-  	   3. for Ebonheart Pact- Deshaan   
+  	   1. for Ebonheart Pact- Deshaan   
 
 ## Gear Delving
 Sellable gear can be obtained by defeating world bosses, delves, dolmens and public dungeons.  However, the trick is to find the set and pieces that are most valuable.  If you have not reached level CP160 yet, this is not the best way to try to make gold.  There is very little demand for gear less than this level.

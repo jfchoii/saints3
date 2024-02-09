@@ -1,6 +1,10 @@
 # Guild News
 
-[Source](https://docs.google.com/document/d/1EAx4SVqxwTYutW0G3l1aXTcSWsLFPjNdxm7Oq2R1C38/edit)
+---
+
+## [Updated News Here](https://docs.google.com/document/d/1EAx4SVqxwTYutW0G3l1aXTcSWsLFPjNdxm7Oq2R1C38/edit)
+
+---
 
 >Editor's note: The easiest way for officers to update guild news would be to either 1. edit the MD page directly in Github OR 2. Make this a permalink to a google document. \
 >If editing MD page directly, can archive guild news pages by renaming the old one to (date)-Guild-News.md and copying it to the /xwiki folder, then editing the Guild-News.md file. I think it's a lot easier for people to use the google doc. 

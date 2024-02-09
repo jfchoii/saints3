@@ -63,7 +63,7 @@ New members have a temporary probation period where we do expect you to make an 
 * Game and Gear Assistance
 * Events every week 
 
-> See (Discord: category=Events/event-announcements) and (Discord: category=Events/events-impromptu) or [Guild News](Guild-News.md) 
+> See (Discord category: Events/event-announcements) and (Discord category: Events/events-impromptu) or [Guild News](Guild-News.md) 
 
 * Vampire or Werewolf Bites (Discord Category - Guild Services/bite-me channel) 
 * Free Awards and Prizes every week, approximate value of 1 million  
@@ -104,20 +104,47 @@ It is listening  . . . It is caring about the whole.
 
 We are not like most guilds.  We set the standards low and hope you will overachieve because you want to and not because you are forced. ** We don’t have any requirements - except stay out of the bottom 5% of your peers in supporting the guild and don’t be inactive.**  Maximum inactivity is two weeks, and you must not go two weeks without making any sales.  We have high hopes that you will want to help the guilds be a success and contribute even if you don’t have to because you know it is needed for success.   
 
-We create a ranking report every week immediately after the trader flips.  The report is usually available late on Tuesday night.
+We measure performance by the guild rankings. We create a ranking report every week immediately after the trader flips. The report is usually available late on Tuesday night.
 
-St Elsweyr and St Greymoor use your **weighted income average** (explained in [Performance Guidelines](Performance-Guidelines.md)) to determine your rank among other members.  The weighted average allows for ups and downs but not inactivity.  We do factor in adjustments if you have been with the guild for less than 4 weeks.
+We use your **weighted income average** <!--(explained in [Performance Guidelines](Performance-Guidelines.md)) -->to determine your rank among other members.  The weighted average allows for ups and downs, but not inactivity.  We do factor in adjustments if you have been with the guild for less than 4 weeks. The ranking is a weighted average of two important indicators, 1. Your performance for the most current week reported, 2. Your historical performance.
+
+Everyone’s rank is sorted from high to low.  The person with the highest number is the top person for the week and the bottom 5% will probably be removed unless they already made arrangements for a deposit to be made or have communicated special circumstances to an officer.
+We also include pages that show sales ranks, performance for the most current week, 4 weeks and historical, donators, cumulative income and how guild credits are counted.
 
 ## Your income earned may be achieved in a combination of several ways.
 
-1.  Income from your sales.  The guild does NOT get 7% of your sales.  ZOS takes half and leaves the rest for the guild and it is nearly impossible for any trading guild to pay for a weekly trader from sales income alone.  If you would like to know how to begin selling, check the [Sales Handbook](Sales-Handbook.md)
-2. Gold donations made directly into the guild bank are counted 100% toward your earned income.  If you need help on how to make a donation, check this document: (Guild Basics)[Guild-Basics]
+1.  Income from your sales.  The guild tax is 7%, which is is fixed by the game.  We do **NOT** get the 7%. The game only gives the guild 3.5% of sales, which is NOT enough to pay for the guild trader each week and it is nearly impossible for any trading guild to pay for a weekly trader from sales income alone.  If you would like to know how to begin selling, check the [Sales Handbook](Sales-Handbook.md)
+2. Gold donations made directly into the guild bank are counted 100% toward your earned income. If you need help on how to make a donation, check this document: (Guild Basics)[Guild-Basics]
 3. Item donations **of value** made directly into the guild bank are counted 100% toward your earned income, if a single item has a value of 1,000 gold or greater or if stackable items have a combined value of 1,000 gold or more.  <span style="text-decoration:underline;">Please note that we do not wish for you to put worthless items into the guild bank, as it does not give you credit for anything and creates more work for us to keep the bank space available for those that do wish to help.</span>
-4. The 24 Hour Rule for Selling: If a listing has not sold in 24 hours, and it is not unique, unusual, or a traditionally hard to sell item (furnishings, motifs, non-meta weapons and armor, etc), please consider relisting the item and lowering the price. Please limit your "hard to sell" items to 5 slots or less." 
-
+4. The 24 Hour Rule for Selling: If a listing has not sold in 24 hours, and it is not unique, unusual, or a traditionally hard to sell item (furnishings, motifs, non-meta weapons and armor, etc), please consider relisting the item and lowering the price. Please limit your "hard to sell" items to 5 slots or less." \
 > While this is a good "rule of thumb" to follow at all times, the 24 hour rule will not be  declared unless we're in a pretty bad slump, or a pricing check shows that a load of our listed items are **WAY** out of line (I'm talking 50 to several thousand percent over TTC's highest suggested price - and, yes, there have been some items listed that had prices that would open your eyes. I do try to explain why when I declare that rule active. 
+<!--5. Guild Credits \
+Guild Credits can be earned by all members. They are basically a form of guild currency that you can earn by holding a job, leading an event, making a donation of gold or donating items of value or passing the [Rite of Passage](Rite-of-Passage.md). 10,000 Guild Credits is equivalent to earning about $285,700 in sales and they can be quite lucrative.  To learn more detail about guild credits, check this document [[Guild Credits]]-->
 
 If you ever have any questions, please don't hesitate to ask - either on Discord in Sales or via PM to @SidewaysJoe.
+
+## Rankings
+
+<!--See [Ranks and Roles](Ranks-and-Roles.md) for an explanation of progression and the basis for rankings.-->
+
+<!--([Also see Step 3 - Growth as a Member](Step-by-Step-Guide.md))-->
+
+All new and learning members begin with the rank of Page and progress to Squire, Crusader and then Knight, which signifies you are an established & self-sustaining member.  Higher ranks for established members are achievable for those that choose to excel to the rank of Paladin or the ultimate status of Lord.
+
+We have no minimum sales or donations, but your initial ability to stay in the guild and your progression as a new member is timed as we have a limited amount of openings for the ranks of Page, Squire and Crusader.  This timed progression is based entirely on how many new applicants want to join the guild and it should take about one week.  Established members have no timed limitations. 
+
+St Elsweyr Fair Share is $25,000 of income per member\
+St Greymoor Fair Share is $20,000 of income per member\
+St Blackwood Fair Share is $15,000 of income per member
+
+Page: <25% of Fair Share in one week\
+Squire: <50% of Fair Share\
+Crusader: <75% of Fair Share.\
+Knight: 75-100% of Fair Share.
+
+As new members come into the guild, the Pages are removed first by the lowest Fair Share percent less than 25%.  Pages that have reached 25% or greater are promoted to a Squire.  Squires that have reached 50% or greater are promoted and Crusaders that have reached 75% are promoted.  Please note that you can be demoted if you fall below these percentages.  However, once you have reached the status of Knight, your income history is weighted into the percent and you will have more leeway before being demoted. 
+
+Higher ranks for established members are achievable for those that choose to excel to the rank of Paladin or the ultimate status of Lord. <!---Also listed in Ranks and Roles>
 
 
 ## Expectations
@@ -126,16 +153,25 @@ We hope that everyone will do their part for the whole. But what is the whole?
 
 It is the entire cost of operating the guild. **No one takes any money or items from our guilds for personal use - ever.**  Many guilds take 10% to 20% and even more for the work that is required. When we say the whole cost of operating the guild, the only thing discretionary is awards or prizes that are given to the members. If someone does not pay their part, then we lose money and that requires someone else to pay for every person that does not. Why would we want to keep a member that costs us money or does not care if we succeed?
 
-How much is your part?  We are saying that this amount is 20k per week in income from all income sources and we call it your Fair Share.  To be honest, the number is too low but we would be very happy if this amount would be met by everyone.  How much do you need to make in just sales to cover 20k income?  We round it down to 500k. (Editor's question: Is it still 500k?)
+How much is your part?  We are saying that this amount is 25k per week in income from all income sources and we call it your Fair Share.  To be honest, the number is too low but we would be very happy if this amount would be met by everyone.  How much do you need to make in just sales to cover 25k income?  We round it down to 700k. <!--(Editor's question: Is it still 700k?)-->
 
-Is this a requirement?  No, it is not.  You can make a lot more if you want to. \
-You can also make less, but please know that you are hurting the guild if you don’t make an alternative contribution like a donation to compensate.
+Is this a requirement?  No, you can make a lot more if you want to. You can also make less, but please know that you are hurting the guild if you don’t make an alternative contribution like a donation to compensate.
 
 There are many combinations of ways to make income besides sales alone.  We have a calculator that will allow you to play with the right combinations for you. ([Contribution Calculator](https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing))
 
-Also, don’t forget to buy a lottery ticket (BIG Payouts) The Monster lottery can have a jackpot from 1 to 6 million! If you would like to know how to participate in our lottery, check [[Guild Lotteries]]
+Also, don’t forget to buy a lottery ticket! (BIG Payouts!) The Monster lottery can have a jackpot from 1 to 6 million. If you would like to know how to participate in our lottery, check [[Guild Lotteries]] ([Guild News](Guild-News.md))
 
 ---
+<!--
+> **A Word about Guild Credits**
+> You may be thinking that guild credits are like funny money.  Well all of the game money is funny money, but it is very real to each of us and the Guild environment.  If you owe me 10k in gold and you did something for me like writing a document about performance, I could agree to take off 1k gold in what you owe me for doing the document.  
+>
+> What would you call that 1k?  I would say that you were paid in the same manner as currency, but it went to pay off your debt.  It is the same way with guild credits.  They are paid in the same manner as currency, but they are part of the calculation in performance and they do improve your ranking.
+> 
+> The ranking report shows how guild credits are factored into your current week's performance. If you make a donation of $10,000 or earned $10,000 in credits, we count it as if you made $285,714 in sales for each one or the equivalent of.
+
+---
+-->
 
 # Conclusion
 How much did you learn? \

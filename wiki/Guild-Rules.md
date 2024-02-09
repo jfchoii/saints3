@@ -73,7 +73,7 @@ Also see [[Absences]] and [[Sales Handbook]]
    - A member can be kicked in the following ways, but please do not put yourself or us in the position of having to kick anyone. 
      - Inactivity and/or inability to contact you or lack of response from you. Inactivity is defined as not playing the game or setting your status to offline for **two weeks**, unless prior arrangements are made.
      - Not complying with the rules or the Zenimax Code of Conduct. 
-     - Trading Guilds also require an income level above the bottom 5% of all members. 
+     - Trading Guilds also require an income level **above the bottom 5%** of all members. 
      - Causing too much drama, agitation, negativity or irritation to other members. 
      - Stalking any player. 
 

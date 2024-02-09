@@ -11,7 +11,7 @@ Absences of more than one week should be reported to an officer of the guild.  E
 ## Inactivity Policy
 After you have exceeded the inactivity period, you will be removed from the guild. 
 
-Prior notice will not be given.  You may however receive an invite from a sister guild.
+Prior notice will not be given.  You may, however, receive an invite from a sister guild.
 
 If you have been removed from any guild, you are not restricted from re-applying to the same guild or to a sister guild. 
 
