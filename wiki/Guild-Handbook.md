@@ -50,7 +50,7 @@ To new members: The sales amounts may seem overwhelming but we can easily teach 
 
 New members have a temporary probation period where we do expect you to make an effort in selling.  Zero sales within your first or second week is not acceptable.
 
-
+---
 
 ## How we help each other
 ### What we offer
@@ -98,6 +98,8 @@ it is time, \
 It is spirit, \
 It is listening  . . . It is caring about the whole.  
 
+---
+
 # Requirements for our Trading Guilds
 
 We are not like most guilds.  We set the standards low and hope you will overachieve because you want to and not because you are forced. ** We don’t have any requirements - except stay out of the bottom 5% of your peers in supporting the guild and don’t be inactive.**  Maximum inactivity is two weeks, and you must not go two weeks without making any sales.  We have high hopes that you will want to help the guilds be a success and contribute even if you don’t have to because you know it is needed for success.   
@@ -132,6 +134,8 @@ You can also make less, but please know that you are hurting the guild if you do
 There are many combinations of ways to make income besides sales alone.  We have a calculator that will allow you to play with the right combinations for you. ([Contribution Calculator](https://docs.google.com/spreadsheets/d/18EE3hyYQJPFLcVFTjxABhpEym1-dqKtglReXqezndN0/edit?usp=sharing))
 
 Also, don’t forget to buy a lottery ticket (BIG Payouts) The Monster lottery can have a jackpot from 1 to 6 million! If you would like to know how to participate in our lottery, check [[Guild Lotteries]]
+
+---
 
 # Conclusion
 How much did you learn? \
