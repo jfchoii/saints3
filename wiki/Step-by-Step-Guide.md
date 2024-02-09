@@ -2,7 +2,7 @@
 # Step-by-Step Guide
 Revised 4/28/23
 
-(EN: Consider merging [Guild Basics](Guild-Basics.html))
+(EN: Consider merging [Guild Basics](Guild-Basics.md))
 
 Your first accomplishment is that you made it this far in the documentation!  Keep up the good effort!  
 
@@ -18,7 +18,7 @@ Once you have access to the information, then your journey begins.
 
 
 ## Step 2 - Read, Learn and ACT
-We recommend that all members read though our Guild Handbook and if you are a completely new beginner to trading guilds that you start with Guild Basics.
+We recommend that all members read though our [Guild Handbook](Guild-Handbook.md), and if you are completely new  to trading guilds that you start with [Guild Basics](Guild-Basics.md).
 
 We want you to be successful and we care deeply about you as a person and your level of enjoyment in the guild and game.
 
@@ -34,13 +34,13 @@ Act by starting to sell, making gold and rewarding yourself with meeting the cha
 
 Progression is a step by step process where you become more informed, more skilled and ultimately a thriving member of the community and you are increasing your income earned.
 
-All new and learning members begin with the rank of Page and progress to Squire, Crusader and then to a Knight where you will become an established & self-sustaining member.  Higher ranks for established members are achievable for those that choose to excel to a Paladin or the ultimate status of Lord.
+All new and learning members begin with the rank of Page and progress to Squire, Crusader and then Knight, which signifies you are an established & self-sustaining member.  Higher ranks for established members are achievable for those that choose to excel to the rank of Paladin or the ultimate status of Lord.
 
-We have no minimum sales or donations but your initial ability to stay in the guild and your progression as a new member is timed as we have a limited amount of openings for the ranks of Page, Squire and Crusader.  This timed progression is based entirely on how many new applicants want to join the guild and it should take about one week.  Established members have no timed limitations. 
+We have no minimum sales or donations, but your initial ability to stay in the guild and your progression as a new member is timed as we have a limited amount of openings for the ranks of Page, Squire and Crusader.  This timed progression is based entirely on how many new applicants want to join the guild and it should take about one week.  Established members have no timed limitations. 
 
-Your growth and progression to each new rank is based on your total INCOME that you earn and can be a combination of several things:  Sales, Gold Donations, Item Donations, Lottery purchases and credits for jobs done for the guild.  We rate your income based on Fair Share.
+Your growth and progression to each new rank is based on your total INCOME that you earn and can be a combination of several things: Sales, Gold Donations, Item Donations, Lottery purchases and credits for jobs done for the guild. 
 
-Your Fair Share is only HALF of the cost of running the guild divided by 500 members.  Each guild has a different Fair share because the trader costs are significantly different.
+We rate your income based on Fair Share. Your Fair Share is only HALF of the cost of running the guild divided by 500 members. Each guild has a different Fair Share because the trader costs are significantly different.
 
 St Elsweyr Fair Share is $25,000 of income per member\
 St Greymoor Fair Share is $20,000 of income per member\
@@ -53,7 +53,7 @@ Squire Fair Share is learning to reach 50% of Fair Share\
 Crusader is learning to reach 75% of Fair Share.\
 Knight is reaching 100% of Fair Share.
 
-As new members come into the guild, the pages are removed first by the lowest Fair Share percent less than 25%.  Pages that have reached 25% or greater are promoted to a Squire.  Squires that have reached 50% or greater are promoted and Crusaders that have reached 75% are promoted.  Please note that you can be demoted if you fall below these percentages.  However, once you have reached the status of Knight, your income history is weighted into the percent and you will have more lead way before being demoted.
+As new members come into the guild, the Pages are removed first by the lowest Fair Share percent less than 25%.  Pages that have reached 25% or greater are promoted to a Squire.  Squires that have reached 50% or greater are promoted and Crusaders that have reached 75% are promoted.  Please note that you can be demoted if you fall below these percentages.  However, once you have reached the status of Knight, your income history is weighted into the percent and you will have more lead way before being demoted.
  
 ## Step 4 - Stay Active
 Never become inactive without making a donation equal to your Fair Share % to hold your place in the guild OR send a message to an officer or GM as to why you cannot.  If you play the game in the offline mode - the game will count you as being absent every day and we have no way of knowing that you are not absent, so be sure to switch your offline status to being online every two week for at least 2 minutes.

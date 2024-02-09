@@ -1,5 +1,5 @@
 # Guild Handbook
-Source: https://docs.google.com/document/d/12yJRHTvmNDKH4DnfhhWArW2e0cmhRynXh7ikn7GNe4U/edit
+[Source](https://docs.google.com/document/d/12yJRHTvmNDKH4DnfhhWArW2e0cmhRynXh7ikn7GNe4U/edit)
 
 Revised 5/7/22
 
@@ -28,34 +28,30 @@ We are here to have fun \
 Be adults with maturity, but let the kid inside shine  \
 Dwell in an environment of trust  
 
-## Simply Stated [Guild Rules](Guild-Rules.md)
+## [Guild Rules](Guild-Rules.md)
 
-The rules apply to **everyone** and they are enforced.
+The rules apply to **everyone** and they are enforced. More detail can be found in [Guild Rules](Guild-Rules.md). 
 
 We wish we did not have to have rules and hope that someday we can throw them away, but until  that day: Learn them, respect them and enforce them. 
 
-**We enforce the [Bethesda Code of Conduct](https://bethesda.net/en/document/code-of-conduct)**\
-            **AND** we only use language that is used in the game dialog.
-
-More detail, mostly about guild chat and discord chat can be found in [Guild Rules](Guild-Rules.md). 
+> **We enforce the [Bethesda Code of Conduct](https://bethesda.net/en/document/code-of-conduct)**\
+>            **AND** we only use language that is used in the game dialog.
 
 ## Join us on [Discord](https://discord.gg/8KybyjS)
 
-The very first step you can take to help yourself and that will show other members that you want to be a part of the community is to join Discord.  You don’t need to use voice or have headsets to benefit from your new discord server.  It is our communication hub for sharing information.  The process of joining is very simple, 
+The very first step you can take to help yourself and that will show other members that you want to be a part of the community is to join Discord.  You don’t need to use voice or have headsets to benefit from your new discord server.  It is our communication hub for sharing information.  The process of joining is very simple: [Discord Overview](Discord-Overview.md) [docs](https://docs.google.com/document/d/15M-TuXlCCK45Dh4MCK8n3mSn7XFbgd2m7uVGluzyG9E/edit)
 
-For our members that cannot join us on Discord, We have a new document to help enable you to stay more current with updates, rankings and Events: [Guild News](Guild-News.md).
+> For our members that cannot join us on Discord, see current updates, rankings and events at [Guild News](Guild-News.md).
 
 
 ## New to Guilds?
 
-No problem, you should find a few answers to the basics here,.
-
-<!-- [[Guild News]] For our members that cannot be on discord. -->
+No problem, you should find a few answers to the basics here. ([Guild Basics](Guild-Basics.md), [Step-by-Step Guide](Step-by-Step Guide.md))
 
 
 ## How we help each other
 ### What we offer
-* An outstanding guild hall with more amenities than you can imagine ([[Guild Home]]) 
+* An outstanding guild hall with more amenities than you can imagine ([Guild Home](Guild-Home.md)) 
 * A helpful [management team](Ranks-and-Roles.md)  
 * A helpful and extremely friendly community 
 * A Crown Exchange Program: See [Crown Exchange](Crown-Exchange.md) 
@@ -68,7 +64,7 @@ No problem, you should find a few answers to the basics here,.
 
 * Vampire or Werewolf Bites (Discord Category - Guild Services/bite-me channel) 
 * Free Awards and Prizes every week, approximate value of 1 million  
-* Lottery  (link) 
+* Lottery (link) 
 * Documentation and Videos on the Game, Builds and Addons (link?) 
 * Guild News, Events and Reporting ([Guild News](Guild-News.md))
 
@@ -107,7 +103,7 @@ We create a ranking report every week immediately after the trader flips.  The r
 
 St Elsweyr and St Greymoor use your **weighted income average** (explained in [[Performance Guidelines]]) to determine your rank among other members.  The weighted average allows for ups and downs but not inactivity.  We do factor in adjustments if you have been with the guild for less than 4 weeks.
 
-### Your income earned may be achieved in a combination of several ways.
+## Your income earned may be achieved in a combination of several ways.
 
 1.  Income from your sales.  The guild does NOT get 7% of your sales.  ZOS takes half and leaves the rest for the guild and it is nearly impossible for any trading guild to pay for a weekly trader from sales income alone.  If you would like to know how to begin selling, check the [Sales Handbook](Sales-Handbook.md)
 2. Gold donations made directly into the guild bank are counted 100% toward your earned income.  If you need help on how to make a donation, check this document: (Guild Basics)[Guild-Basics]
@@ -140,7 +136,7 @@ The sales amounts may seem overwhelming but we can easily teach you how to make 
 
 New members have a temporary probation period where we do expect you to make an effort in selling.  Zero sales within your first or second week is not acceptable.
 
-## Conclusion
+# Conclusion
 How much did you learn? \
 Want to find out if you can answer the basic questions that we hope you now know?  \
 There is no pass or fail here - it is multiple choice and you can’t move to the next question until you pick the correct answer.  You can take the quiz as many times as you want.  There is no grading and the only thing we know is if you took the test or not.
@@ -152,6 +148,6 @@ If you take a quiz, then you have learned what is necessary to become a True Sai
 
 
 
-### **Remember this ...** 
+## **Remember this ...** 
 
  If you find yourself getting closer to the bottom, stand tall and take the initiative to improve and get help. Members that are visibly trying to improve are never removed. We want to help you help yourself and to be successful. See our [Sales Handbook](Sales-Handbook.md)

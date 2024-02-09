@@ -6,18 +6,20 @@ docs:
   - title: "Guild News"
     url: /saints3/Guild-News
 
-  - title: "Guild Basics (In-Game)"
+  - title: "Guild Handbook"
+    url: /saints3/Guild-Handbook
+  
+  - title: "Sales Handbook"
+    url: /saints3/Sales-Handbook
+
+  - title: "Intro: Guild Basics (In-Game)"
     url: /saints3/Guild-Basics
+  
+  - title: "Intro: Step-by-Step Guide"
+    url: /saints3/Step-by-Step-Guide
 
   - title: "Guild Rules"
     url: /saints3/Guild-Rules 
-
- 
-  - title: "Guild Handbook"
-    url: /saints3/Guild-Handbook
-
-  - title: "Sales Handbook"
-    url: /saints3/Sales-Handbook
 
   - title: "Absences"
     url: /saints3/Absences 

@@ -1,6 +1,6 @@
 # Sales Handbook
 
-https://docs.google.com/document/d/1NpY0VtRVMk5NCVfETOST9jPyCwb2Ok5fmFmc16uNh8o/edit
+[Source](https://docs.google.com/document/d/1NpY0VtRVMk5NCVfETOST9jPyCwb2Ok5fmFmc16uNh8o/edit)
 
 Revised 8/30/21
 
@@ -11,18 +11,18 @@ You can begin NOW and the sooner the better.  Selling starts as easy as running 
 
 # Basic Tools & Tips
 
-> Quick link: [Master Merchant Setup](/wiki/Master-Merchant-Setup.md)
+> Quick link: [Master Merchant Setup](Master-Merchant-Setup.md)
 
 <!--**ESO+ Craft Bag:**-->
 
-### How to list items in the store:
+## How to list items in the store:
 At the bank, press E to interact with the NPC banker. You will see options to use your own bank, your guild's bank and your guild's store. If you are in more than one guild, first decide which guild you want to sell from. Then select the store for that guild.  You will then see the options to search the store to look for things to buy, or to list items for sale or to look at all of your listings that are currently up for sale.  
 
 Choose the “Sell” tab, which will bring up your inventory.  Click on the item, enter your price, and press E to list the item.  A default price will autofill - IGNORE this price.  It is an amount that any NPC  will give you and has no relation to the value of the item.  You have to pay a listing fee which is 1% of the item value, so make sure you have that much gold available. Each guild store gives you 30 slots for listening items to sell. 
 
 > **TIP**:  It's important to keep all of your  slots filled and keep filling them as much as possible, for your sake and also for the guild. 
 
-### Importance of Pricing
+## Importance of Pricing
 No one wants to pay too much for something they need but unfortunately a lot of people try to squeeze every penny they can get out of things they sell and then they wait . . . and wait . . . and wonder why it doesn’t sell.  The customers are over at the other guild buying things left and right because they THINK they are getting bargains.
 
 Guilds in very good trading locations can sell your items almost as fast as you can list them if you price at a very good bargain.  However, there are  pros and cons to selling low.  You must be willing to ensure that you have enough items to continuously keep your store stocked and be willing to keep listing them every day.  People that sell millions usually fully stock their stores 2 to 4 times a day and that means having about 100 items to sell every day and that is a lot.  Not everyone has that much time to dedicate to selling or finding things to sell.
@@ -49,7 +49,7 @@ Another addon that is considered outdated by some is Arkadius Trade Tools, but s
 
 Before you consider adding an addon, first get a tool that will help you install, update, backup and uninstall addons for you.  This tool is called Minion and will make the addon process much more simple.  [https://minion.mmoui.com/?download](https://minion.mmoui.com/?download) 
 
-## How to Sell and Ways to Sell
+# How to Sell and What to Sell
 
 ### Farming and Fishing
 This is the process of collecting as many items of value as possible while you travel around Tamriel as quickly as possible. Seasoned players often develop routes that they repeat, but that takes some time to develop as you learn where items of value are located.  Discord has a category called Resources and a channel called resource-spots dedicated to generous members that have shared where they have found sources for various items.

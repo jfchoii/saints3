@@ -1,13 +1,11 @@
 # Ranks and Roles
 
-https://docs.google.com/document/d/1Ya--wxek0lmDgQUdEcC-dWvPwt0e-BrkUMx_tGn1Pik/edit?usp=sharing
+[Source](https://docs.google.com/document/d/1Ya--wxek0lmDgQUdEcC-dWvPwt0e-BrkUMx_tGn1Pik/edit?usp=sharing)
 
-:warning: EN: Edit colors
-
-1/14/23
+Revised 1/14/23
 
 ## Ranks
-Page, Squire, Crusader - Progression
+Page, Squire, Crusader, Knight - Progression (For now, see [the ranking description here](Step-by-Step-Guide.md))
 
 (Ranks and lottery tickets)
 (Ranks and privileges)
@@ -45,7 +43,7 @@ Page, Squire, Crusader - Progression
 All Administration positions help to validate new members into Discord.
 
 ### Crown Exchange Brokers - All Guilds
-Designated in Discord with this color.
+<span style="color:LightPink">Designated in Discord with this color.</span>
 
 ### Grand Master Crafters/Crafters - All Guilds
-Designated in Discord with this color.
+<span style="color:Plum">Designated in Discord with this color.</span>

@@ -68,7 +68,7 @@ List other trading addons here \
 [[Master Merchant Setup]]
 
 ### My Addons
-These are the addons I use regularly.  Note the greyed out addons are not relevant for this character (e.g. ShalkTracker is Warden specific).  Also, I often use only a portion of an addon if there are better features from another addon.  To use similar addons (e.g. addons PVP alerts), simply disable the portion of the addon that you are not using in the settings menu.  If you do not do so, you will either get conflict errors or a lot of overlapping screen or chat messages.
+These are the addons I use regularly.  Note the greyed out addons are not relevant for this character (e.g. ShalkTracker is Warden specific).  Also, I often use only a portion of an addon if there are better features from another addon.  To use similar addons (e.g. addons PVP alerts), simply disable the portion of the addon that you are not using in the settings menu.  If you do not do so, you will either get conflict errors or a lot of overlapping screen or chat messages. \
 (Add image or list)
 
 ## General guidelines for providing game assistance to guild members:

@@ -1,6 +1,6 @@
 # Absences
 
-https://docs.google.com/document/d/1xi6dSl0g3fEhIgxGEC1hwZ3U0P7VRY2l-6jZoVeZzR4/edit
+[Source](https://docs.google.com/document/d/1xi6dSl0g3fEhIgxGEC1hwZ3U0P7VRY2l-6jZoVeZzR4/edit)
 
 <!-- (:warning: EN: Should this be consolidated into Guild Rules? Can link to it using Guild-Rules#Absences or something like that if we do.) -->
 

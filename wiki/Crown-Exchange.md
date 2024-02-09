@@ -25,7 +25,7 @@ To ensure that the Crown Exchange remains scam-free for our guild members, Broke
 (Put key here)
 
 
-## BUYERS 
+### Buyers
 
 To buy crowns through our guild, first determine which item you would like to buy from the Crown Store. Please note that items that are discounted for ESO Plus members will not be discounted when gifted to another player, even if both Buyer and Seller are ESO Plus members (this is a limitation by ZoS). Players are also unable to gift items that cost Crown Gems (another limitation by ZoS).
 
@@ -63,7 +63,7 @@ Once the Buyer and Seller have agreed on a time, they may request a Broker on th
 After your order is completed, please **DO NOT delete** your order request!  Head to the [#buyer-feedback](https://discordapp.com/channels/585172092119547925/761056372280000513) channel to post your feedback for your transaction. 
 
 
-## SELLERS 
+### Sellers
 
 **To sell crowns, please go to the #crown-exchange channel and scroll up to the top of the page. Please prioritize selling crowns to guild members who have posted earlier (and therefore have waited longer) and those who are buying items that are time limited, where the items are only in the Crown Store for a limited time and will be indicated by the :clock: emote that Brokers will put on the order request.
 
@@ -78,7 +78,7 @@ Once you have agreed on a time, both of you may request for a Broker from the [#
 You may choose to pick up multiple order requests but please ensure that you have sufficient crowns to fulfill all crown sales.
 
 
-## BROKERS 
+### Brokers
 
 Anyone with the @Broker tag can broker Crown Exchange transactions for our guild.  Do not attempt to do an exchange without a broker present. \
 

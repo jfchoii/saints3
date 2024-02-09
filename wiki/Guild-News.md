@@ -1,7 +1,12 @@
 # Guild News
 
-https://docs.google.com/document/d/1EAx4SVqxwTYutW0G3l1aXTcSWsLFPjNdxm7Oq2R1C38/edit
+[Source](https://docs.google.com/document/d/1EAx4SVqxwTYutW0G3l1aXTcSWsLFPjNdxm7Oq2R1C38/edit)
 (Guild news is posted in this google docs link? How to embed preview of a google doc that can be edited by the GMs so that it remains a static link)
+
+## Visit Our [EVENT-SIGNUP](https://discord.com/channels/585172092119547925/915058499711533137) Page on Discord to check out our newest events and join us in adventuring! 
+Ask @Jedu512 if you are not in discord.
+
+
 
 ## Monster Lottery
 (2/6/2024)\
@@ -14,5 +19,3 @@ Trader flip occurs every Tuesday at 3:00 pm EST or EDT depending on  daylight sa
 
 Here we have a picture of several members hanging around our traders to see if we won our bids.  It is also announced in guild chat.
 
-### Visit Our [EVENT-SIGNUP](https://discord.com/channels/585172092119547925/915058499711533137) Page on Discord to check out our newest events and join us in adventuring! 
-Ask @Jedu512 if you are not in discord.
