@@ -1,6 +1,6 @@
-> For Editors: You can edit the markdown files directly in the github.com interface without having to install anything, but do not change the filenames. 
-> 
-> For now, either click the Edit button in the upper right or navigate to <https://github.com/jfchoii/saints3/tree/master/wiki> and open the .md file of interest. You can then edit it by clicking the :pencil: icon in the upper right side. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
+For Editors: You can edit the markdown files directly in the github.com interface without having to install anything, but do not change the filenames. 
+
+For now, click the Edit button in the upper right to open the .md file of interest. This uses the Markdown format employed by Jekyll. [1](https://www.markdownguide.org/tools/jekyll/) [2](https://www.markdownguide.org/cheat-sheet/)
 
 To request an edit on Github: Create a new Issue via the Issues tab in the upper left corner of the repository page at <github.com/jfchoii/saints3>. I or a collaborator will be able to directly respond to the issue created, which functions as a trackable ticket.
 
@@ -10,11 +10,11 @@ For more complicated edits, I will post a guide explaining how to make a branch 
 
 ---
 
-Access site at <https://jfchoii.github.io/saints3> ; Access the editable wiki pages at <https://github.com/jfchoii/saints3/blob/master/wiki/>
+Access site at <https://jfchoii.github.io/saints3> 
 
 This may be the home for static information related to the guild. Information that is constantly updated may be links to sheets/docs.
 
-# Suggested merges: 
+#### Suggested merges: 
 
 Similar documents: 
 - Guild Rules, Absences - merge absences into guild rules
@@ -24,7 +24,7 @@ Similar documents:
 
 ---
 
-# Big tasks that needs help
+#### Big tasks that needs help
 
 #### Title: Image wrangler \
 Task: Downloading images used in google docs
@@ -38,7 +38,7 @@ Task: Updating outdated information in posts & merging redundant information (Pr
 
 ---
 
-# Planned edits:
+#### Planned edits:
 1. Import contents of Google docs into wiki
    - missing: Rite, Guild Home, Discord Overview
 2. Edit text so it is less verbose and easier to read. 
