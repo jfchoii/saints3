@@ -1,3 +1,3 @@
-# [Source](https://docs.google.com/document/d/1bs4hUHBJOvrPQGxu5XTzyEKZgdlLRMnxIgWlnpIAmSY/edit)
+# [Google Doc Here](https://docs.google.com/document/d/1bs4hUHBJOvrPQGxu5XTzyEKZgdlLRMnxIgWlnpIAmSY/edit)
 
-Image heavy page, need an image wrangler to help. If interested, contact @pangiokuhlii.
+Contact @pangiokuhlii if interested in helping port over images.
